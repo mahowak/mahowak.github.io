@@ -26,5 +26,5 @@ git:
 transfer:
   command: rsync
   settings: -av
-  
+
 
