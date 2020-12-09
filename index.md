@@ -124,3 +124,13 @@ K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient 
 
 ### One-off links
 [Ngram survey](https://goo.gl/forms/R4Iq1b7GCdumQEM03)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6W2BYVH194"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6W2BYVH194');
+</script>
