@@ -19,10 +19,12 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Published articles
 
+I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021 (to appear). *EACL 2021*.
+
 K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2021 (to appear). [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In *Oxford University Press Handbook of the Mental Lexicon*. 
 
 D. Card, P. Henderson, U. Khandelwal, R. Jia,
-K. Mahowald, D. Jurafsky. 2020. [With Little Power Comes Great Responsibility](https*://www.aclweb.org/anthology/2020.emnlp-main.745.pdf). *EMNLP 2020*. 
+K. Mahowald, D. Jurafsky. 2020. [With Little Power Comes Great Responsibility](https://www.aclweb.org/anthology/2020.emnlp-main.745.pdf). *EMNLP 2020*. 
 
 K. Mahowald, G. Kachergis, M.C. Frank. 2020. [What counts as an
   exemplar model, anyway? A commentary on Ambridge (2020)](https://psyarxiv.com/ut86f/). *First Language*.
