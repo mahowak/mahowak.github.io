@@ -19,7 +19,7 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Published articles
 
-I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021 (to appear). Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT. *EACL 2021*.
+I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021 (to appear). [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
 
 K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2021 (to appear). [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In *Oxford University Press Handbook of the Mental Lexicon*. 
 
