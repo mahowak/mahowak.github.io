@@ -17,11 +17,15 @@ title:
 I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with Dan Jurafsky at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
 
-### Published articles
+### Articles
 
-I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021 (to appear). [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
+I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021. [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
 
-K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2021 (to appear). [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In *Oxford University Press Handbook of the Mental Lexicon*. 
+K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2021. [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In *Oxford University Press Handbook of the Mental Lexicon*. 
+
+ManyBabies2 Team. 2021 (submitted). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://pure.mpg.de/rest/items/item_3288327/component/file_3288328/content). 
+
+K. Mahowald, M. Norris, D. Jurafsky. 2021. [Concord begets concord: A Bayesian model of nominal concord typology](https://ling.auf.net/lingbuzz/005788/current.pdf?_s=x7EYj8YTdvx2ZPYo). *Proceedings of 95th LSA (2021)*.
 
 D. Card, P. Henderson, U. Khandelwal, R. Jia,
 K. Mahowald, D. Jurafsky. 2020. [With Little Power Comes Great Responsibility](https://www.aclweb.org/anthology/2020.emnlp-main.745.pdf). *EMNLP 2020*. 
