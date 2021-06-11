@@ -19,6 +19,10 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Articles
 
+T. Pimentel, I. Nikkarinen, K. Mahowald, R. Cotterell, D. Blasi. 2021. [How (Non-) Optimal is the Lexicon?](https://arxiv.org/pdf/2104.14279.pdf).
+
+J. Rozner, C. Potts, K. Mahowald. 2021. [Decrypting Cryptic Crosswords: Semantically Complex Wordplay Puzzles as a Target for NLP](https://arxiv.org/pdf/2104.08620.pdf).
+
 I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021. [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
 
 K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2021. [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In *Oxford University Press Handbook of the Mental Lexicon*. 
