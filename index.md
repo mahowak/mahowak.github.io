@@ -29,6 +29,9 @@ K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2021. [Efficient communicati
 
 ManyBabies2 Team. 2021 (submitted). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://pure.mpg.de/rest/items/item_3288327/component/file_3288328/content). 
 
+T. Regev, X. Chen, A. Schipper, L. Bergen, K. Mahowald, E. Fedorenko. 2021. [High-level language brain regions are sensitive to sub-lexical regularities
+](https://www.biorxiv.org/content/10.1101/2021.06.11.447786v1?rss=1).
+
 K. Mahowald, M. Norris, D. Jurafsky. 2021. [Concord begets concord: A Bayesian model of nominal concord typology](https://ling.auf.net/lingbuzz/005788/current.pdf?_s=x7EYj8YTdvx2ZPYo). *Proceedings of 95th LSA (2021)*.
 
 D. Card, P. Henderson, U. Khandelwal, R. Jia,
