@@ -32,7 +32,7 @@ ManyBabies2 Team. 2021 (submitted). [Action anticipation based on an agent's epi
 T. Regev, X. Chen, A. Schipper, L. Bergen, K. Mahowald, E. Fedorenko. 2021. [High-level language brain regions are sensitive to sub-lexical regularities
 ](https://www.biorxiv.org/content/10.1101/2021.06.11.447786v1?rss=1).
 
-K. Mahowald, M. Norris, D. Jurafsky. 2021. [Concord begets concord: A Bayesian model of nominal concord typology](https://ling.auf.net/lingbuzz/005788/current.pdf?_s=x7EYj8YTdvx2ZPYo). *Proceedings of 95th LSA (2021)*.
+K. Mahowald, D. Jurafsky, M. Norris. 2021. [Concord begets concord: A Bayesian model of nominal concord typology](https://ling.auf.net/lingbuzz/005788/current.pdf?_s=x7EYj8YTdvx2ZPYo). *Proceedings of 95th LSA (2021)*.
 
 D. Card, P. Henderson, U. Khandelwal, R. Jia,
 K. Mahowald, D. Jurafsky. 2020. [With Little Power Comes Great Responsibility](https://www.aclweb.org/anthology/2020.emnlp-main.745.pdf). *EMNLP 2020*. 
