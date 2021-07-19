@@ -5,17 +5,16 @@ title:
 {% maincolumn assets/img/kylefogo2.png '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
-<a href="mailto:mahowald@ucsb.edu"> mahowald@ucsb.edu</a>
+<a href="mailto:mahowald@utexas.edu"> mahowald@utexas.edu</a>
 <!--
  <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
  -->
 
 ### About me (him)
 
-{% newthought 'I am an assistant professor'%} in [linguistics](https://www.linguistics.ucsb.edu/) at University of California, Santa Barbara. I work broadly on the topic of human communication. Specifically, I am interested in the relationship between communicative efficiency and natural language, computational cognitive science, the application of computational methods to basic questions in cognitive psychology and linguistic typology, historical English, and language neuroimaging. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable. 
+{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin. I work broadly on the topic of human communication. Specifically, I am interested in the relationship between communicative efficiency and natural language, what NLP can tell us about human language, and the application of computational methods to basic questions in cognitive psychology and linguistic typology. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable. 
 
 I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with Dan Jurafsky at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
-
 
 ### Articles
 
