@@ -18,9 +18,13 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Articles
 
-T. Pimentel, I. Nikkarinen, K. Mahowald, R. Cotterell, D. Blasi. 2021. [How (Non-) Optimal is the Lexicon?](https://arxiv.org/pdf/2104.14279.pdf).
+B. Schmidt, S.T. Piantadosi, K. Mahowald. 2021. [Uncontrolled corpus composition drives an apparent surge in cognitive distortions](assets/pdf/schmidt_piantadosi_mahowald.pdf). Letter to *PNAS* (in resposne to [Bollen et al.](https://www.pnas.org/content/118/30/e2102061118)).
 
-J. Rozner, C. Potts, K. Mahowald. 2021. [Decrypting Cryptic Crosswords: Semantically Complex Wordplay Puzzles as a Target for NLP](https://arxiv.org/pdf/2104.08620.pdf).
+A. Jones, W. Wang, K. Mahowald. 2021. [A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space](https://arxiv.org/pdf/2109.06324.pdf). *EMNLP 2021*.
+
+T. Pimentel, I. Nikkarinen, K. Mahowald, R. Cotterell, D. Blasi. 2021. [How (Non-) Optimal is the Lexicon?](https://arxiv.org/pdf/2104.14279.pdf). *NAACL 2021*.
+
+J. Rozner, C. Potts, K. Mahowald. 2021. [Decrypting Cryptic Crosswords: Semantically Complex Wordplay Puzzles as a Target for NLP](https://arxiv.org/pdf/2104.08620.pdf). *NeurIPS 2021*
 
 I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021. [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
 
