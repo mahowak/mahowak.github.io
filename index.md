@@ -18,6 +18,12 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Articles
 
+{% marginfigure assets/img/oxlex.jpeg 'Oxford Handbook of the Mental Lexicon (with cover art by Blake).' %}K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2022. [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In [*Oxford University Press Handbook of the Mental Lexicon*](https://www.amazon.com/Oxford-Handbook-Mental-Lexicon-Handbooks/dp/0198845006). 
+
+I. Papadimitriou, R. Futrell, K. Mahowald. 2022. [When classifying grammatical role, BERT doesn't care about word order... except when it matters](https://arxiv.org/pdf/2203.06204.pdf). *ACL 2022*.
+
+K. Mahowald, E. Diachek, E. Gibson, E. Fedorenko, R. Futrell. 2022. [Grammatical cues are largely, but not completely, redundant with word meanings in natural language](https://arxiv.org/pdf/2201.12911.pdf). 
+
 B. Schmidt, S.T. Piantadosi, K. Mahowald. 2021. [Uncontrolled corpus composition drives an apparent surge in cognitive distortions](assets/pdf/schmidt_piantadosi_mahowald.pdf). Letter to *PNAS* (in resposne to [Bollen et al.](https://www.pnas.org/content/118/30/e2102061118)).
 
 A. Jones, W. Wang, K. Mahowald. 2021. [A Massively Multilingual Analysis of Cross-linguality in Shared Embedding Space](https://arxiv.org/pdf/2109.06324.pdf). *EMNLP 2021*.
@@ -27,8 +33,6 @@ T. Pimentel, I. Nikkarinen, K. Mahowald, R. Cotterell, D. Blasi. 2021. [How (Non
 J. Rozner, C. Potts, K. Mahowald. 2021. [Decrypting Cryptic Crosswords: Semantically Complex Wordplay Puzzles as a Target for NLP](https://arxiv.org/pdf/2104.08620.pdf). *NeurIPS 2021*
 
 I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021. [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
-
-K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2021. [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In *Oxford University Press Handbook of the Mental Lexicon*. 
 
 ManyBabies2 Team. 2021 (submitted). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://pure.mpg.de/rest/items/item_3288327/component/file_3288328/content). 
 
@@ -71,6 +75,8 @@ I. Blank, E. Fedorenko, Z. Balewski, and K. Mahowald. 2016. Syntactic processing
 
 R. Futrell, K. Mahowald, E. Gibson. 2015. [Large-Scale Evidence of Dependency Length Minimization in 37 Languages](assets/pdf/dep.pdf). *Proceedings of the National Academy of Sciences*. Published online before print August 3, 2015. doi: 10.1073/pnas.1502134112 {% sidenote 2 'See popular discussion in [Science Magazine](http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common) and on <br> [Reddit](https://www.reddit.com/r/science/comments/3g0vpk/mit_claims_to_have_found_a_language_universal/)' %}{% marginfigure assets/img/depling.png 'Futrell, Mahowald, Gibson (2015): The dependency lengths in natural languages are minimized relative to random baseline.' %}
 
+R. Futrell, K. Mahowald, E. Gibson. 2015. [Quantifying Word Order Freedom in Dependency Corpora](assets/pdf/depling-conf.pdf). Proceedings of Depling 2015.
+
 R. Singh, E. Fedorenko, K. Mahowald, E. Gibson. 2015. Presupposition accommodation is costly only in implausible contexts. *Cognitive Science*. Published online before print July, 2015. doi: 10.1111/cogs.12260
 
 E. Gibson, P. Jacobson, P. Graff, E. Fedorenko, K. Mahowald, S.T. Piantadosi. 2014. [A pragmatic account of complexity in definite Antecedent-Contained-Deletion relative clauses](assets/pdf/gibsonetal_jsemantics.pdf). *Journal of Semantics*. Published online before print.
@@ -83,63 +89,10 @@ K. Mahowald. 2012. [A Naive Bayes Classifier for Shakespeare’s second person p
 
 K. Mahowald. 2010. [It may nat be: Chaucer, Derrida, and the Impossibility of the Gift](assets/pdf/chaucer.pdf). *Studies in the Age of Chaucer*. 32:129-150.
 
-### In-progress articles
-
-K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. Submitted. An information-theoretic account of word memorability.
-
-K. Mahowald, T.J. O’Donnell, and J.B. Tenenbaum. Submitted. [Quantifying availability through linguistic productivity](assets/pdf/hangman_8_13_14.pdf).
-
-### Conference Proceedings
-
-R. Futrell, K. Mahowald, E. Gibson. 2015. [Quantifying Word Order Freedom in Dependency Corpora](assets/pdf/depling-conf.pdf). Proceedings of Depling 2015.
-
 K. Mahowald. 2011. [An LFG Account of Word Order Freezing](assets/pdf/lfg11mahowald.pdf). In M. Butt and T. H. King, eds., Proceedings of the LFG11 Conference. Hong Kong: CSLI Publications: http://www-csli.stanford.edu/publications.
 
-### Refereed Presentations
-
-K. Mahowald, I. Dautriche, E. Gibson, A. Christophe, E. Gibson. 2014. Efficient phonological clustering in the mental lexicon. Ninth International Conference on the Mental Lexicon. Niagara-on-the-Lake, Ontario, Canada. September 30-October 2, 2014.
-
-I. Dautriche, K. Mahowald, E. Gibson, A. Christophe, E. Gibson. 2014. Lexical clustering in efficient language design. AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
-
-K. Mahowald, P. Graff, J. Hartman, E. Gibson. 2014. SNAP Judgments: Small N Acceptability Paradigm (SNAP) for linguistic judgments. AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
-
-{% marginfigure assets/img/tempest.jpg 'With "Quantifying Shakespeare", we turned the plays into social networks, where each node is a character. Here are the Tempest social networks after one act and after all five acts when Prospero has brought everyone together.' %}K. Mahowald, A. Jacobs, A. Fahimipour, M. Kleiman-Weiner. 2013. Measure for Measure: Quantifying Shakespearean Drama. Links 2013. MIT Media Lab. July 22–23, 2013.
-
-K. Mahowald. 2011. An LFG Account of Word Order Freezing. Sixteenth International LFG Conference. Hong Kong. July 16–19, 2011.
-
-### Refereed Posters
-
-K. Mahowald, M. Kline, E. Fedorenko, E. Gibson. 2015. [Informativity and efficient compression of sentences](assets/pdf/mahowald_inform_poster_CUNY2015). Annual CUNY Conference on Human Sentence Processing, CUNY 2015. Los Angeles, CA. March 19-21, 2014.
-
-K. Mahowald, S.T. Piantadosi, M. Alper, E. Gibson. 2015. [Lexical items are privileged slots for meaning](assets/pdf/word_learning_poster_CUNY2015). Annual CUNY Conference on Human Sentence Processing, CUNY 2015. Los Angeles, CA. March 19-21, 2014.
-
-R. Futrell, K. Mahowald, E. Gibson. 2014. [CLIQS: Cross-Linguistic Investigations in Quantitative Syntax](assets/pdf/cliqs.pdf). AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
-
-K. Mahowald, P. Isola, E. Fedorenko, A. Oliva, E. Gibson. 2014. [An information-theoretic account of word memorability](assets/pdf/memory_amlap14.pdf). AMLaP 2014 (Architectures and Mechanisms for Language Processing). Edinburgh, UK. September 3-6, 2014.
-
-K. Mahowald, E. Fedorenko. [Reliable individual-level neural markers of language activity](assets/pdf/bigmri_neurobio_2014.pdf). Neurobiology of Language 2014. Amsterdam. August 27-29, 2014.
-
-E. Gibson, P. Jacobson, P. Graff, K. Mahowald, E. Fedorenko, S.T. Piantadosi. Pragmatic influences on the processing of ACD relative clauses. 27th Annual CUNY Conference on Human Sentence Processing, CUNY 2014. Columbus, OH. March 13-15, 2014.
-
-R. Futrell, K. Mahowald, S.T. Piantadosi, E. Gibson. Efficient Communication Forwards and Backwards. 27th Annual CUNY Conference on Human Sentence Processing, CUNY 2014. Columbus, OH. March 13-15, 2014.
-
-K. Mahowald, S.T. Piantadosi, E. Gibson. 2013. [Lexical clustering in efficient language design](assets/pdf/lexy_poster1.pdf). 26th Annual CUNY Conference on Human Sentence Processing, CUNY 2013. Columbia, SC. March 22, 2013.{% marginfigure assets/img/wolfram.png 'Wolfram Alpha plot of the frequency of the name *Kyle* over time. It gives a good indication of when I was born and suggests that, in 50 years, Kyle will be a name we associate with older people.' %}
 
 
-### Collaborators
-
-[Ted Gibson](http://tedlab.mit.edu)
-[Evelina Fedorenko](http://web.mit.edu/evelina9/www/)
-[Steven T. Piantadosi](http://colala.bcs.rochester.edu)
-[Joshua Tenenbaum](http://cocosci.mit.edu/)
-[Timothy O'Donnell](http://web.mit.edu/timod/www/)
-[Richard Futrell](http://web.mit.edu/futrell/www/)
-[Isabelle Dautriche](http://www.lscp.net/persons/dautriche/)
-[Ariel James](http://www.psychology.illinois.edu/people/anjames2)
-[Phillip Isola](web.mit.edu/phillipi/)
-
-### One-off links
-[Ngram survey](https://goo.gl/forms/R4Iq1b7GCdumQEM03)
 
 <!-- Default Statcounter code for KylePage ds -->
 <script type="text/javascript">
