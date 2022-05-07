@@ -32,7 +32,7 @@ T. Pimentel, I. Nikkarinen, K. Mahowald, R. Cotterell, D. Blasi. 2021. [How (Non
 
 J. Rozner, C. Potts, K. Mahowald. 2021. [Decrypting Cryptic Crosswords: Semantically Complex Wordplay Puzzles as a Target for NLP](https://arxiv.org/pdf/2104.08620.pdf). *NeurIPS 2021*
 
-I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021. [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
+{% marginfigure assets/img/ergs.png 'Papadimitriou et al. on "Deep Subjecthood" trained probes on a subject vs. object classification task in multilingual BERT, transferring the performance of the probe across languages with different morphosyntactic alignment systems.' %}I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021. [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
 
 ManyBabies2 Team. 2021 (submitted). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://pure.mpg.de/rest/items/item_3288327/component/file_3288328/content). 
 
