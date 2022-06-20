@@ -18,6 +18,12 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Articles
 
+ N. Rezaii, K. Mahowald, R. Ryskin, B. Dickerson, E. Gibson. 2022. 
+[A syntax–lexicon trade-off in language production](http://tedlab.mit.edu/tedlab_website/researchpapers/Rezaiia,Mahowald,%20Ryskin,%20Dickersona%20&%20Gibson%202022.pdf). 
+\textit{Proceedings of the National Academy of Sciences} 119 (25), e2120203119.
+
+ A. Kaushal, K. Mahowald. 2022. [What do tokens know about their characters and how do they know it?](https://arxiv.org/pdf/2206.02608). Proceedings of NAACL 2022.
+
 {% marginfigure assets/img/oxlex.jpeg 'Oxford Handbook of the Mental Lexicon (with cover art by Blake).' %}K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2022. [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In [*Oxford University Press Handbook of the Mental Lexicon*](https://www.amazon.com/Oxford-Handbook-Mental-Lexicon-Handbooks/dp/0198845006). 
 
 I. Papadimitriou, R. Futrell, K. Mahowald. 2022. [When classifying grammatical role, BERT doesn't care about word order... except when it matters](https://arxiv.org/pdf/2203.06204.pdf). *ACL 2022*.
