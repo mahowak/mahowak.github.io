@@ -25,7 +25,7 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 *Proceedings of the National Academy of Sciences* 119 (25), e2120203119.
 
 V. Kovatchev, T. Chatterjee, V. Govindarajan, J. Chen, E. Choi, G. Chronis, A. Das, K. Erk, M. Lease, J. Li, Y. Wu, K. Mahowald. 2022. [longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks](https://arxiv.org/pdf/2206.14729.pdf).
-Proceedings of \textit{DADC 2022}.
+Proceedings of DADC 2022.
 
 {% marginfigure assets/img/oxlex.jpeg 'Oxford Handbook of the Mental Lexicon (with cover art by Blake).' %}K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2022. [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In [*Oxford University Press Handbook of the Mental Lexicon*](https://www.amazon.com/Oxford-Handbook-Mental-Lexicon-Handbooks/dp/0198845006). 
 
