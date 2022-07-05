@@ -18,11 +18,14 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Articles
 
+ A. Kaushal, K. Mahowald. 2022. [What do tokens know about their characters and how do they know it?](https://arxiv.org/pdf/2206.02608). Proceedings of NAACL 2022.
+
  N. Rezaii, K. Mahowald, R. Ryskin, B. Dickerson, E. Gibson. 2022. 
 [A syntax–lexicon trade-off in language production](http://tedlab.mit.edu/tedlab_website/researchpapers/Rezaiia,Mahowald,%20Ryskin,%20Dickersona%20&%20Gibson%202022.pdf). 
-\textit{Proceedings of the National Academy of Sciences} 119 (25), e2120203119.
+*Proceedings of the National Academy of Sciences* 119 (25), e2120203119.
 
- A. Kaushal, K. Mahowald. 2022. [What do tokens know about their characters and how do they know it?](https://arxiv.org/pdf/2206.02608). Proceedings of NAACL 2022.
+V. Kovatchev, T. Chatterjee, V. Govindarajan, J. Chen, E. Choi, G. Chronis, A. Das, K. Erk, M. Lease, J. Li, Y. Wu, K. Mahowald. 2022. [longhorns at DADC 2022: How many linguists does it take to fool a Question Answering model? A systematic approach to adversarial attacks](https://arxiv.org/pdf/2206.14729.pdf).
+Proceedings of \textit{DADC 2022}.
 
 {% marginfigure assets/img/oxlex.jpeg 'Oxford Handbook of the Mental Lexicon (with cover art by Blake).' %}K. Mahowald, I. Dautriche, M. Braginsky, E. Gibson. 2022. [Efficient communication and the organization of the lexicon](https://psyarxiv.com/4an6v). In [*Oxford University Press Handbook of the Mental Lexicon*](https://www.amazon.com/Oxford-Handbook-Mental-Lexicon-Handbooks/dp/0198845006). 
 
