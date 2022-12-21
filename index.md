@@ -18,6 +18,8 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Articles
 
+ A. Diwan, L. Berry, E. Choi, D. Harwath, K. Mahowald. 2022. [Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality](https://arxiv.org/pdf/2211.00768.pdf). Proceedings of EMNLP 2022.
+
  A. Kaushal, K. Mahowald. 2022. [What do tokens know about their characters and how do they know it?](https://arxiv.org/pdf/2206.02608). Proceedings of NAACL 2022.
 
  N. Rezaii, K. Mahowald, R. Ryskin, B. Dickerson, E. Gibson. 2022. 
