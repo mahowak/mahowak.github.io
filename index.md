@@ -18,6 +18,10 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 ### Articles
 
+W. Liang, K. Mahowald, J. Raymond, V. Krishna, D. Smith, D. Jurafsky, D. McFarland, J. Zou. 2023. [How random is the review outcome? A systematic study of the impact of external factors on eLife peer review.](https://www.biorxiv.org/content/biorxiv/early/2023/01/04/2023.01.04.522708.full.pdf)
+
+J. Huang, Z. Wu, K. Mahowald, C. Potts. 2022. [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://arxiv.org/abs/2212.09897).
+
  A. Diwan, L. Berry, E. Choi, D. Harwath, K. Mahowald. 2022. [Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality](https://arxiv.org/pdf/2211.00768.pdf). Proceedings of EMNLP 2022.
 
  A. Kaushal, K. Mahowald. 2022. [What do tokens know about their characters and how do they know it?](https://arxiv.org/pdf/2206.02608). Proceedings of NAACL 2022.
