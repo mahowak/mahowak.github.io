@@ -24,7 +24,7 @@ K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Art
 
 G. Chronis, K. Mahowald, K. Erk. 2023. [A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces](https://arxiv.org/abs/2305.18598). Proceedings of ACL 2023 (to appear).
 
-J. Huang, Z. Wu, K. Mahowald, C. Potts. 2023. [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://arxiv.org/abs/2212.09897). Proceedings of ACL 2023 (to appear).
+J. Huang, Z. Wu, K. Mahowald, C. Potts. 2023. [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://arxiv.org/abs/2212.09897). Findings of ACL 2023 (to appear).
 
 V. Govindarajan, K. Mahowald, D. Beaver, J. Li. 2023. [Counterfactual Probing for the influence of affect and specificity on Intergroup Bias](https://arxiv.org/abs/2305.16409). Findings of ACL 2023 (to appear).
 
@@ -35,9 +35,9 @@ S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowal
 W. Liang, K. Mahowald, J. Raymond, V. Krishna, D. Smith, D. Jurafsky, D. McFarland, J. Zou. 2023. [How random is the review outcome? A systematic study of the impact of external factors on eLife peer review.](https://www.biorxiv.org/content/biorxiv/early/2023/01/04/2023.01.04.522708.full.pdf)
 
 
-O. Jouravlev, K. Mahowald, A. Paunov, E. Gibson, E. Fedorenko. 2023. Evaluation of Psychometric Properties and Inter-test Associations for Three Popular Measures of Social Competence. 
+O. Jouravlev, K. Mahowald, A. Paunov, E. Gibson, E. Fedorenko. 2023. [Evaluation of Psychometric Properties and Inter-test Associations for Three Popular Measures of Social Competence](https://psyarxiv.com/es9wt/).
 
-M. Mersinias, K. Mahowald. 2023. Keep it Neutral: Using Natural Language Inference to Improve Generation.
+M. Mersinias, K. Mahowald. 2023. [Keep it Neutral: Using Natural Language Inference to Improve Generation](https://arxiv.org/abs/2302.08577).
 
  A. Diwan, L. Berry, E. Choi, D. Harwath, K. Mahowald. 2022. [Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality](https://arxiv.org/pdf/2211.00768.pdf). Proceedings of EMNLP 2022.
 
