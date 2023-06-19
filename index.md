@@ -14,19 +14,30 @@ title:
 
 {% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu). I work broadly on the topic of human communication. Specifically, I am interested in what modern computational language models can tell us about human language, how linguistic efficiency can explain things about linguistic behavior and typology, and a variety of other topcis in the cognitive science of language space. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable. 
 
-I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with Dan Jurafsky at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
+I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with [Dan Jurafsky](http://web.stanford.edu/~jurafsky/) (CS/Linguistics) and [Dan McFarland](https://profiles.stanford.edu/daniel-mcfarland) (Graduate School of Education) at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
 ### Articles
 
 {% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2023. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](https://arxiv.org/abs/2301.06627).
 
-K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article + Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023 (to appear).
+K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article + Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023.
+
+G. Chronis, K. Mahowald, K. Erk. 2023. [A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces](https://arxiv.org/abs/2305.18598). Proceedings of ACL 2023 (to appear).
+
+J. Huang, Z. Wu, K. Mahowald, C. Potts. 2023. [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://arxiv.org/abs/2212.09897). Proceedings of ACL 2023 (to appear).
+
+V. Govindarajan, K. Mahowald, D. Beaver, J. Li. 2023. [Counterfactual Probing for the influence of affect and specificity on Intergroup Bias](https://arxiv.org/abs/2305.16409). Findings of ACL 2023 (to appear).
+
+Y. Wu, W. Sheffield, K. Mahowald, J. Li. 2023. [Elaborative simplification as implicit questions under discussion](https://arxiv.org/abs/2305.10387).
 
 S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowald, I. Blank, E. Fedorenko. 2023. [Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI](https://www.biorxiv.org/content/10.1101/2023.01.19.524657v1.abstract).
 
 W. Liang, K. Mahowald, J. Raymond, V. Krishna, D. Smith, D. Jurafsky, D. McFarland, J. Zou. 2023. [How random is the review outcome? A systematic study of the impact of external factors on eLife peer review.](https://www.biorxiv.org/content/biorxiv/early/2023/01/04/2023.01.04.522708.full.pdf)
 
-J. Huang, Z. Wu, K. Mahowald, C. Potts. 2022. [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://arxiv.org/abs/2212.09897).
+
+O. Jouravlev, K. Mahowald, A. Paunov, E. Gibson, E. Fedorenko. 2023. Evaluation of Psychometric Properties and Inter-test Associations for Three Popular Measures of Social Competence. 
+
+M. Mersinias, K. Mahowald. 2023. Keep it Neutral: Using Natural Language Inference to Improve Generation.
 
  A. Diwan, L. Berry, E. Choi, D. Harwath, K. Mahowald. 2022. [Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality](https://arxiv.org/pdf/2211.00768.pdf). Proceedings of EMNLP 2022.
 
