@@ -20,6 +20,10 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 {% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2023. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](https://arxiv.org/abs/2301.06627).
 
+Mahowald, K., Diachek, E., Gibson, E., Fedorenko, E., & Futrell, R. (2023). [Grammatical cues to subjecthood are redundant in a majority of simple clauses across languages](assets/pdf/mahowald_gramm_cues.pdf). *Cognition*, 241, 105543.
+
+Chen, S., Futrell, R., & Mahowald, K. (2023). [An information-theoretic approach to the typology of spatial demonstratives](https://sites.socsci.uci.edu/~rfutrell/papers/chen2023information.pdf). *Cognition*, 240, 105505.
+
 K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article + Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023.
 
 G. Chronis, K. Mahowald, K. Erk. 2023. [A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces](https://arxiv.org/abs/2305.18598). Proceedings of ACL 2023 (to appear).
