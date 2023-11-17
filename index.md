@@ -22,28 +22,36 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 {% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2023. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](https://arxiv.org/abs/2301.06627).
 
+
+
 Mahowald, K., Diachek, E., Gibson, E., Fedorenko, E., & Futrell, R. (2023). [Grammatical cues to subjecthood are redundant in a majority of simple clauses across languages](assets/pdf/mahowald_gramm_cues.pdf). *Cognition*, 241, 105543.
 
 Chen, S., Futrell, R., & Mahowald, K. (2023). [An information-theoretic approach to the typology of spatial demonstratives](https://sites.socsci.uci.edu/~rfutrell/papers/chen2023information.pdf). *Cognition*, 240, 105505.
 
 K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article + Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023.
 
-G. Chronis, K. Mahowald, K. Erk. 2023. [A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces](https://arxiv.org/abs/2305.18598). Proceedings of ACL 2023 (to appear).
+G. Chronis, K. Mahowald, K. Erk. 2023. [A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces](https://arxiv.org/abs/2305.18598). Proceedings of ACL 2023.
 
-J. Huang, Z. Wu, K. Mahowald, C. Potts. 2023. [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://arxiv.org/abs/2212.09897). Findings of ACL 2023 (to appear).
+J. Huang, Z. Wu, K. Mahowald, C. Potts. 2023. [Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training](https://arxiv.org/abs/2212.09897). Findings of ACL 2023.
 
-V. Govindarajan, K. Mahowald, D. Beaver, J. Li. 2023. [Counterfactual Probing for the influence of affect and specificity on Intergroup Bias](https://arxiv.org/abs/2305.16409). Findings of ACL 2023 (to appear).
+V. Govindarajan, K. Mahowald, D. Beaver, J. Li. 2023. [Counterfactual Probing for the influence of affect and specificity on Intergroup Bias](https://arxiv.org/abs/2305.16409). Findings of ACL 2023.
 
-Y. Wu, W. Sheffield, K. Mahowald, J. Li. 2023. [Elaborative simplification as implicit questions under discussion](https://arxiv.org/abs/2305.10387).
+Y. Wu, W. Sheffield, K. Mahowald, J. Li. 2023. [Elaborative simplification as implicit questions under discussion](https://arxiv.org/abs/2305.10387). Proceedings of EMNLP 2023.
+
+M. Mersinias, K. Mahowald. 2023. [Keep it Neutral: Using Natural Language Inference to Improve Generation](https://arxiv.org/abs/2302.08577). Findings of EMNLP 2023.
+
+S. Malik-Moraleda, K Mahowald, BR Conway, E Gibson. 2023. [Concepts Are Restructured During Language Contact: The Birth of Blue and Other Color Concepts in Tsimane’-Spanish Bilinguals](http://tedlab.mit.edu/tedlab_website/researchpapers/malik-moraleda_et_al_2023_psych_science.pdf). Psychological Science.
+
+A Srinivasan, VS Govindarajan, K Mahowald. 2023. [Counterfactually Probing Language Identity in Multilingual Models](https://arxiv.org/pdf/2310.18862.pdf). MRL Worksop 2023.
 
 S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowald, I. Blank, E. Fedorenko. 2023. [Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI](https://www.biorxiv.org/content/10.1101/2023.01.19.524657v1.abstract).
 
 W. Liang, K. Mahowald, J. Raymond, V. Krishna, D. Smith, D. Jurafsky, D. McFarland, J. Zou. 2023. [How random is the review outcome? A systematic study of the impact of external factors on eLife peer review.](https://www.biorxiv.org/content/biorxiv/early/2023/01/04/2023.01.04.522708.full.pdf)
 
-
 O. Jouravlev, K. Mahowald, A. Paunov, E. Gibson, E. Fedorenko. 2023. [Evaluation of Psychometric Properties and Inter-test Associations for Three Popular Measures of Social Competence](https://psyarxiv.com/es9wt/).
 
-M. Mersinias, K. Mahowald. 2023. [Keep it Neutral: Using Natural Language Inference to Improve Generation](https://arxiv.org/abs/2302.08577).
+
+V. Govindarajan, J.D. Rodriguez, K. Bostrom, K. Mahowald. 2023. [Lil-Bevo: Explorations of Strategies for Training Language Models in More Humanlike Ways](https://arxiv.org/pdf/2310.17591). Proceedings of the 2023 BabyLM Challenge.
 
  A. Diwan, L. Berry, E. Choi, D. Harwath, K. Mahowald. 2022. [Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality](https://arxiv.org/pdf/2211.00768.pdf). Proceedings of EMNLP 2022.
 
