@@ -20,15 +20,15 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 ### Articles
 
-{% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2023. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](assets/pdf/mahowald2024dissociating.pdf).
-
+{% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2024. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](assets/pdf/mahowald2024dissociating.pdf).*Trends in Cognitive Sciences*.
+ 
 H. Lederman, K. Mahowald. 2024. [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://arxiv.org/abs/2401.04854).
 
 K. Misra, A. Ettinger, K. Mahowald. 2024. [Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently](https://arxiv.org/abs/2401.06640).
 
 J. Kallini, I. Papadimitriou, R. Futrell, K. Mahowald, C. Potts. 2024. [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416)
 
-J. Hu, K. Mahowald, G. Lupyan, A. Ivanova, R. Levy. 2024. [Language models align with human judgments on key grammatical constructions](https://arxiv.org/abs/2402.01676). Submitted to Proceedings of the National Academy of Sciences.
+J. Hu, K. Mahowald, G. Lupyan, A. Ivanova, R. Levy. 2024. [Language models align with human judgments on key grammatical constructions](https://arxiv.org/abs/2402.01676).
 
 T. Pimentel, C. Meister, E. G. Wilcox, K. Mahowald, R. Cotterell. 2023. [Revisiting the optimality of word lengths. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2023.emnlp-main.137/), pages 2240–2255, Singapore, December 2023. (Outstanding Paper Award).
 
