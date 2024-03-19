@@ -12,23 +12,39 @@ title:
 
 ### About me (him)
 
-{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu). I work broadly on the topic of human communication. Specifically, I am interested in what modern computational language models can tell us about human language, how linguistic efficiency can explain things about linguistic behavior and typology, and a variety of other topcis in the cognitive science of language space. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable. 
+{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu). I work broadly on the topic of human communication. Specifically, I am interested in what modern computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language space. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable.
 
 I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with [Dan Jurafsky](http://web.stanford.edu/~jurafsky/) (CS/Linguistics) and [Dan McFarland](https://profiles.stanford.edu/daniel-mcfarland) (Graduate School of Education) at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
-I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin. See also a [pop piece with Anna Ivanova on LLMs and thinking](https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099).
+I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin. And did a [SXSW panel on crosswords](https://schedule.sxsw.com/2024/events/PP134394). See also a [pop piece with Anna Ivanova on LLMs and thinking](https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099).
 
 ### Articles
 
-{% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2023. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](https://arxiv.org/abs/2301.06627).
+{% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2023. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](assets/pdf/mahowald2024dissociating.pdf).
 
+H. Lederman, K. Mahowald. 2024. [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://arxiv.org/abs/2401.04854).
 
+K. Misra, A. Ettinger, K. Mahowald. 2024. [Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently](https://arxiv.org/abs/2401.06640).
+
+J. Kallini, I. Papadimitriou, R. Futrell, K. Mahowald, C. Potts. 2024. [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416)
+
+J. Hu, K. Mahowald, G. Lupyan, A. Ivanova, R. Levy. 2024. [Language models align with human judgments on key grammatical constructions](https://arxiv.org/abs/2402.01676). Submitted to Proceedings of the National Academy of Sciences.
+
+T. Pimentel, C. Meister, E. G. Wilcox, K. Mahowald, R. Cotterell. 2023. [Revisiting the optimality of word lengths. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2023.emnlp-main.137/), pages 2240–2255, Singapore, December 2023. (Outstanding Paper Award).
+
+A Srinivasan, VS Govindarajan, K. Mahowald. 2023. [Counterfactually probing language identity in multilingual models](https://arxiv.org/pdf/2310.18862.pdf). Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 24–36, Singapore, December 2023.
+
+V. Govindarajan, J.D. Rodriguez, K. Bostrom, K. Mahowald. 2023. [Lil-bevo: Explorations of strategies for training language models in more humanlike ways](https://arxiv.org/pdf/2310.17591). Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, pages 280–288, Singapore, December 2023.
+
+M. Mersinias, K. Mahowald. 2023. [For generated text, is NLI-neutral text the best text?](https://arxiv.org/abs/2302.08577) Findings of the Association for Computational Linguistics: EMNLP 2023, pages 2596–2602, Singapore, December 2023.
+
+T. Regev, J. Affourtit, X. Chen, A. Schipper, L. Bergen, L., K. Mahowald, E. Fedorenko. 2024. [High-level language brain regions are sensitive to sub-lexical regularities](https://t.co/b54FKfZFWq). *Cerebral Cortex*.
 
 Mahowald, K., Diachek, E., Gibson, E., Fedorenko, E., & Futrell, R. (2023). [Grammatical cues to subjecthood are redundant in a majority of simple clauses across languages](assets/pdf/mahowald_gramm_cues.pdf). *Cognition*, 241, 105543.
 
 Chen, S., Futrell, R., & Mahowald, K. (2023). [An information-theoretic approach to the typology of spatial demonstratives](https://sites.socsci.uci.edu/~rfutrell/papers/chen2023information.pdf). *Cognition*, 240, 105505.
 
-K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article + Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023.
+K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article  Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023.
 
 G. Chronis, K. Mahowald, K. Erk. 2023. [A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces](https://arxiv.org/abs/2305.18598). Proceedings of ACL 2023.
 
@@ -38,20 +54,14 @@ V. Govindarajan, K. Mahowald, D. Beaver, J. Li. 2023. [Counterfactual Probing fo
 
 Y. Wu, W. Sheffield, K. Mahowald, J. Li. 2023. [Elaborative simplification as implicit questions under discussion](https://arxiv.org/abs/2305.10387). Proceedings of EMNLP 2023.
 
-M. Mersinias, K. Mahowald. 2023. [Keep it Neutral: Using Natural Language Inference to Improve Generation](https://arxiv.org/abs/2302.08577). Findings of EMNLP 2023.
-
 S. Malik-Moraleda, K Mahowald, BR Conway, E Gibson. 2023. [Concepts Are Restructured During Language Contact: The Birth of Blue and Other Color Concepts in Tsimane’-Spanish Bilinguals](http://tedlab.mit.edu/tedlab_website/researchpapers/malik-moraleda_et_al_2023_psych_science.pdf). Psychological Science.
 
-A Srinivasan, VS Govindarajan, K Mahowald. 2023. [Counterfactually Probing Language Identity in Multilingual Models](https://arxiv.org/pdf/2310.18862.pdf). MRL Worksop 2023.
 
-S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowald, I. Blank, E. Fedorenko. 2023. [Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI](https://www.biorxiv.org/content/10.1101/2023.01.19.524657v1.abstract).
+S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowald, I. Blank, E. Fedorenko. 2024. [Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI](https://www.biorxiv.org/content/10.1101/2023.01.19.524657v1.abstract). *Cerebral Cortex*.
 
 W. Liang, K. Mahowald, J. Raymond, V. Krishna, D. Smith, D. Jurafsky, D. McFarland, J. Zou. 2023. [How random is the review outcome? A systematic study of the impact of external factors on eLife peer review.](https://www.biorxiv.org/content/biorxiv/early/2023/01/04/2023.01.04.522708.full.pdf)
 
 O. Jouravlev, K. Mahowald, A. Paunov, E. Gibson, E. Fedorenko. 2023. [Evaluation of Psychometric Properties and Inter-test Associations for Three Popular Measures of Social Competence](https://psyarxiv.com/es9wt/).
-
-
-V. Govindarajan, J.D. Rodriguez, K. Bostrom, K. Mahowald. 2023. [Lil-Bevo: Explorations of Strategies for Training Language Models in More Humanlike Ways](https://arxiv.org/pdf/2310.17591). Proceedings of the 2023 BabyLM Challenge.
 
  A. Diwan, L. Berry, E. Choi, D. Harwath, K. Mahowald. 2022. [Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality](https://arxiv.org/pdf/2211.00768.pdf). Proceedings of EMNLP 2022.
 
@@ -81,9 +91,6 @@ J. Rozner, C. Potts, K. Mahowald. 2021. [Decrypting Cryptic Crosswords: Semantic
 {% marginfigure assets/img/ergs.png 'Papadimitriou et al. on "Deep Subjecthood" trained probes on a subject vs. object classification task in multilingual BERT, transferring the performance of the probe across languages with different morphosyntactic alignment systems.' %}I. Papadimitriou, R. Futrell, E. Chi, K. Mahowald. 2021. [Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT](https://arxiv.org/pdf/2101.11043.pdf). *EACL 2021*.
 
 ManyBabies2 Team. 2021 (submitted). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://pure.mpg.de/rest/items/item_3288327/component/file_3288328/content). 
-
-T. Regev, X. Chen, A. Schipper, L. Bergen, K. Mahowald, E. Fedorenko. 2021. [High-level language brain regions are sensitive to sub-lexical regularities
-](https://www.biorxiv.org/content/10.1101/2021.06.11.447786v1?rss=1).
 
 K. Mahowald, D. Jurafsky, M. Norris. 2021. [Concord begets concord: A Bayesian model of nominal concord typology](https://ling.auf.net/lingbuzz/005788/current.pdf?_s=x7EYj8YTdvx2ZPYo). *Proceedings of 95th LSA (2021)*.
 
