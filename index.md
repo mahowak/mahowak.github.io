@@ -22,9 +22,6 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827).{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
 
-
-
-{% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2024. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](assets/pdf/mahowald2024dissociating.pdf).*Trends in Cognitive Sciences*.
  
 H. Lederman, K. Mahowald. 2024. [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://arxiv.org/abs/2401.04854).
 
@@ -37,6 +34,9 @@ J. Hu, K. Mahowald, G. Lupyan, A. Ivanova, R. Levy. 2024. [Language models align
 T. Pimentel, C. Meister, E. G. Wilcox, K. Mahowald, R. Cotterell. 2023. [Revisiting the optimality of word lengths. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2023.emnlp-main.137/), pages 2240–2255, Singapore, December 2023. (Outstanding Paper Award).
 
 A Srinivasan, VS Govindarajan, K. Mahowald. 2023. [Counterfactually probing language identity in multilingual models](https://arxiv.org/pdf/2310.18862.pdf). Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 24–36, Singapore, December 2023.
+
+{% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2024. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](assets/pdf/mahowald2024dissociating.pdf).*Trends in Cognitive Sciences*.
+
 
 V. Govindarajan, J.D. Rodriguez, K. Bostrom, K. Mahowald. 2023. [Lil-bevo: Explorations of strategies for training language models in more humanlike ways](https://arxiv.org/pdf/2310.17591). Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, pages 280–288, Singapore, December 2023.
 
