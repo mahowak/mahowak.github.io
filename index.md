@@ -140,7 +140,7 @@ E. Gibson, P. Jacobson, P. Graff, E. Fedorenko, K. Mahowald, S.T. Piantadosi. 20
 
 K. Mahowald and E. Gibson. 2013. [Short, frequent words are more likely to appear genetically related by chance](assets/pdf/mahowald_pnas.pdf). Letter to *Proceedings of the National Academy of Sciences*.{% sidenote 3 'See original article by Pagel et al. [here](http://www.pnas.org/content/110/21/8471.abstract) and their reply <br> [here](assets/img/pagel_reply.pdf).'%}
 
-{% marginfigure assets/img/info.png 'Mahowald et al. (2013): After a predictive context, people are more likely to use a shorter form of a word than after a neutral context.' %}K. Mahowald, E. Fedorenko, S.T. Piantadosi, and E. Gibson. 2013. [Info/information theory: speakers choose shorter words in predictive contexts](assets/pdf/mahowald_info.pdf). *Cognition*, 126, 313-318.
+K. Mahowald, E. Fedorenko, S.T. Piantadosi, and E. Gibson. 2013. [Info/information theory: speakers choose shorter words in predictive contexts](assets/pdf/mahowald_info.pdf). *Cognition*, 126, 313-318.
 
 K. Mahowald. 2012. [A Naive Bayes Classifier for Shakespeare’s second person pronoun](assets/pdf/mahowald_naive_bayes_shax.pdf). *Literary and Linguistic Computing*. 27 (1): 17-23. doi:10.1093/llc/fqr045
 
