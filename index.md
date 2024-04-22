@@ -12,13 +12,17 @@ title:
 
 ### About me (him)
 
-{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu). I work broadly on the topic of human communication. Specifically, I am interested in what modern computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language space. I also have interests in quantitative methods in the sciences, geared towards making science more robust, open, and equitable.
+{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what modern computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language space. I also have interests in quantitative methods in the sciences.
 
 I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with [Dan Jurafsky](http://web.stanford.edu/~jurafsky/) (CS/Linguistics) and [Dan McFarland](https://profiles.stanford.edu/daniel-mcfarland) (Graduate School of Education) at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
-I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin. And did a [SXSW panel on crosswords](https://schedule.sxsw.com/2024/events/PP134394). See also a [pop piece with Anna Ivanova on LLMs and thinking](https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099).
+I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin; and did a [SXSW panel on crosswords](https://schedule.sxsw.com/2024/events/PP134394). See also a [pop piece with Anna Ivanova on LLMs and thinking](https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099).
 
 ### Articles
+
+K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827).{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
+
+
 
 {% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2024. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](assets/pdf/mahowald2024dissociating.pdf).*Trends in Cognitive Sciences*.
  
@@ -54,8 +58,7 @@ V. Govindarajan, K. Mahowald, D. Beaver, J. Li. 2023. [Counterfactual Probing fo
 
 Y. Wu, W. Sheffield, K. Mahowald, J. Li. 2023. [Elaborative simplification as implicit questions under discussion](https://arxiv.org/abs/2305.10387). Proceedings of EMNLP 2023.
 
-S. Malik-Moraleda, K Mahowald, BR Conway, E Gibson. 2023. [Concepts Are Restructured During Language Contact: The Birth of Blue and Other Color Concepts in Tsimane’-Spanish Bilinguals](http://tedlab.mit.edu/tedlab_website/researchpapers/malik-moraleda_et_al_2023_psych_science.pdf). Psychological Science.
-
+S. Malik-Moraleda, K Mahowald, BR Conway, E Gibson. 2023. [Concepts Are Restructured During Language Contact: The Birth of Blue and Other Color Concepts in Tsimane’-Spanish Bilinguals](http://tedlab.mit.edu/tedlab_website/researchpapers/malik-moraleda_et_al_2023_psych_science.pdf). *Psychological Science*.
 
 S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowald, I. Blank, E. Fedorenko. 2024. [Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI](https://www.biorxiv.org/content/10.1101/2023.01.19.524657v1.abstract). *Cerebral Cortex*.
 
