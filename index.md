@@ -46,9 +46,9 @@ T. Regev, J. Affourtit, X. Chen, A. Schipper, L. Bergen, L., K. Mahowald, E. Fed
 
 Mahowald, K., Diachek, E., Gibson, E., Fedorenko, E., & Futrell, R. (2023). [Grammatical cues to subjecthood are redundant in a majority of simple clauses across languages](assets/pdf/mahowald_gramm_cues.pdf). *Cognition*, 241, 105543.
 
-Chen, S., Futrell, R., & Mahowald, K. (2023). [An information-theoretic approach to the typology of spatial demonstratives](https://sites.socsci.uci.edu/~rfutrell/papers/chen2023information.pdf). *Cognition*, 240, 105505.
+{% marginfigure assets/img/chen_fig.png 'Chen et al. (2023) looks at informativity and complexity tradeoffs in spatial adverbs like *here* and *there* across world languages and finds that languages tend to fall on an efficient frontier.' %}Chen, S., Futrell, R., & Mahowald, K. (2023). [An information-theoretic approach to the typology of spatial demonstratives](https://sites.socsci.uci.edu/~rfutrell/papers/chen2023information.pdf). *Cognition*, 240, 105505.
 
-K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article  Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023.
+{% marginfigure assets/img/mahowald_aann.png 'This EACL paper explores the AANN "a beautiful five days" construction and shows a high degree of similarity between GPT-3 ratings and human ratings.' %}K. Mahowald. 2023. [A Discerning Several Thousand Judgments: GPT-3 Rates the Article  Adjective + Numeral + Noun Construction](https://arxiv.org/abs/2301.12564). Proceedings of EACL 2023.
 
 G. Chronis, K. Mahowald, K. Erk. 2023. [A Method for Studying Semantic Construal in Grammatical Constructions with Interpretable Contextual Embedding Spaces](https://arxiv.org/abs/2305.18598). Proceedings of ACL 2023.
 
@@ -68,7 +68,8 @@ O. Jouravlev, K. Mahowald, A. Paunov, E. Gibson, E. Fedorenko. 2023. [Evaluation
 
  A. Diwan, L. Berry, E. Choi, D. Harwath, K. Mahowald. 2022. [Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality](https://arxiv.org/pdf/2211.00768.pdf). Proceedings of EMNLP 2022.
 
- A. Kaushal, K. Mahowald. 2022. [What do tokens know about their characters and how do they know it?](https://arxiv.org/pdf/2206.02608). Proceedings of NAACL 2022.
+ {% marginfigure assets/img/fig1_kaushal.png 'In Kaushal and Mahowald, the input is a model embedding and we train
+MLPs to classify whether a particular character (e.g., "a") occurs in a particular token (e.g, "employee").'%}A. Kaushal, K. Mahowald. 2022. [What do tokens know about their characters and how do they know it?](https://arxiv.org/pdf/2206.02608). Proceedings of NAACL 2022.
 
  N. Rezaii, K. Mahowald, R. Ryskin, B. Dickerson, E. Gibson. 2022. 
 [A syntax–lexicon trade-off in language production](http://tedlab.mit.edu/tedlab_website/researchpapers/Rezaiia,Mahowald,%20Ryskin,%20Dickersona%20&%20Gibson%202022.pdf). 
