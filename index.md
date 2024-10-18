@@ -30,11 +30,11 @@ S. Boguraev, B. Lipkin, L. Weissweiler, K. Mahowald. 2024. [Models Can and Shoul
 
 K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827). EMNLP 2024.{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
  
-V. S. Govindarajan, M. Zang, K. Mahowald, D. Beaver, J. J. Li. 2024. [Do they mean 'us'? Interpreting Referring Expressions in Intergroup Bias](https://arxiv.org/abs/2406.17947). arXiv preprint arXiv:2406.17947.
+V. S. Govindarajan, M. Zang, K. Mahowald, D. Beaver, J. J. Li. 2024. [Do they mean 'us'? Interpreting Referring Expressions in Intergroup Bias](https://arxiv.org/abs/2406.17947). Findings of EMNLP 2024.
 
 J. Kallini, I. Papadimitriou, R. Futrell, K. Mahowald, C. Potts. 2024. [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416). ACL 2024 (Best Paper Award).
 
-J. Hu, K. Mahowald, G. Lupyan, A. Ivanova, R. Levy. 2024. [Language models align with human judgments on key grammatical constructions](https://arxiv.org/abs/2402.01676).
+J. Hu, K. Mahowald, G. Lupyan, A. Ivanova, R. Levy. 2024. [Language models align with human judgments on key grammatical constructions](https://arxiv.org/abs/2402.01676). *PNAS* letter.
 
 K. Denlinger, S. Wechsler, K. Mahowald. 2024. [Participle-Prepended Nominals Have Lower Entropy Than Nominals Appended After the Participle](https://arxiv.org/abs/2405.10457). CogSci 2024.
 
