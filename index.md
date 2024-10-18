@@ -20,23 +20,29 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 ### Articles
 
-K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827).{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
+H. Lederman, K. Mahowald. 2024. [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://arxiv.org/abs/2401.04854). TACL 2024.
 
+K. Misra, A. Ettinger, K. Mahowald. 2024. [Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently](https://arxiv.org/abs/2401.06640). EMNLP 2024.
+
+Z. Sprague, F. Yin, J. D. Rodriguez, D. Jiang, M. Wadhwa, P. Singhal, X. Zhao, X. Ye, K. Mahowald, G. Durrett. 2024. [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183). arXiv preprint arXiv:2409.12183.
+
+S. Boguraev, B. Lipkin, L. Weissweiler, K. Mahowald. 2024. [Models Can and Should Embrace the Communicative Nature of Human-Generated Math](https://arxiv.org/abs/2409.17005). The 4th Workshop on Mathematical Reasoning and AI (NeurIPS Workshop).
+
+K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827). EMNLP 2024.{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
  
-H. Lederman, K. Mahowald. 2024. [Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs](https://arxiv.org/abs/2401.04854).
+V. S. Govindarajan, M. Zang, K. Mahowald, D. Beaver, J. J. Li. 2024. [Do they mean 'us'? Interpreting Referring Expressions in Intergroup Bias](https://arxiv.org/abs/2406.17947). arXiv preprint arXiv:2406.17947.
 
-K. Misra, A. Ettinger, K. Mahowald. 2024. [Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently](https://arxiv.org/abs/2401.06640).
-
-J. Kallini, I. Papadimitriou, R. Futrell, K. Mahowald, C. Potts. 2024. [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416)
+J. Kallini, I. Papadimitriou, R. Futrell, K. Mahowald, C. Potts. 2024. [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416). ACL 2024 (Best Paper Award).
 
 J. Hu, K. Mahowald, G. Lupyan, A. Ivanova, R. Levy. 2024. [Language models align with human judgments on key grammatical constructions](https://arxiv.org/abs/2402.01676).
+
+K. Denlinger, S. Wechsler, K. Mahowald. 2024. [Participle-Prepended Nominals Have Lower Entropy Than Nominals Appended After the Participle](https://arxiv.org/abs/2405.10457). CogSci 2024.
 
 T. Pimentel, C. Meister, E. G. Wilcox, K. Mahowald, R. Cotterell. 2023. [Revisiting the optimality of word lengths. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2023.emnlp-main.137/), pages 2240–2255, Singapore, December 2023. (Outstanding Paper Award).
 
 A Srinivasan, VS Govindarajan, K. Mahowald. 2023. [Counterfactually probing language identity in multilingual models](https://arxiv.org/pdf/2310.18862.pdf). Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 24–36, Singapore, December 2023.
 
 {% marginfigure assets/img/langposition.png 'Mahowald, Ivanova et al. "Dissociating Language and Thought in Large Language Models: A Cognitive Perspective" gives a cognitive science perspective on Large Language Models, arguing for a distinction between formal competence and functional competence.' %}K. Mahowald, A. Ivanova, I. Blank, N. Kanwisher, J. Tenenbaum, E. Fedorenko. 2024. [Dissociating Language and Thought in Large Language Models: A Cognitive Perspective](assets/pdf/mahowald2024dissociating.pdf).*Trends in Cognitive Sciences*.
-
 
 V. Govindarajan, J.D. Rodriguez, K. Bostrom, K. Mahowald. 2023. [Lil-bevo: Explorations of strategies for training language models in more humanlike ways](https://arxiv.org/pdf/2310.17591). Proceedings of the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, pages 280–288, Singapore, December 2023.
 
