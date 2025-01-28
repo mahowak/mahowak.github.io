@@ -10,7 +10,7 @@ title:
  <a href="http://www.twitter.edu/kmahowald"><span class="icon-twitter"></span></a> [@kmahowald]("http://www.twitter.edu/kmahowald")
  -->
 
-### About me (him)
+### About me
 
 {% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what modern computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language space. I also have interests in quantitative methods in the sciences. I am a winner of an NSF CAREER Award (2024-2029).
 
