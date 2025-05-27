@@ -20,6 +20,22 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 ### Articles
 
+S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). arXiv preprint arXiv:2505.16002.
+{% marginfigure assets/img/causal_transfer_picture.pdf 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
+
+L. Weissweiler, K. Mahowald, A. Goldberg. 2025. [Linguistic Generalizations are not Rules: Impacts on Evaluation of LMs](https://arxiv.org/abs/2502.13195). arXiv preprint arXiv:2502.13195.
+
+R. Futrell, K. Mahowald. 2025. [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). arXiv preprint arXiv:2501.17047.
+
+S. Padmanabhan, K. Misra, K. Mahowald, E. Choi. 2025. [On Language Models' Sensitivity to Suspicious Coincidences](https://arxiv.org/abs/2504.09387). arXiv preprint arXiv:2504.09387.
+
+Q. Yao, K. Misra, L. Weissweiler, K. Mahowald. 2025. [Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences in Language Models](https://arxiv.org/abs/2503.20850). arXiv preprint arXiv:2503.20850.
+
+S. Song, J. Hu, K. Mahowald. 2025. [Language Models Fail to Introspect About Their Knowledge of Language](https://arxiv.org/abs/2503.07513). arXiv preprint arXiv:2503.07513.
+
+J. Rozner, L. Weissweiler, K. Mahowald, C. Shain. 2025. [Constructions are Revealed in Word Distributions](https://arxiv.org/abs/2503.06048). arXiv preprint arXiv:2503.06048.
+
+
 K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827). EMNLP 2024. Outstanding Paper Award.{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
 
 J. Kallini, I. Papadimitriou, R. Futrell, K. Mahowald, C. Potts. 2024. [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416). ACL 2024 (Best Paper Award).
@@ -28,7 +44,7 @@ H. Lederman, K. Mahowald. 2024. [Are Language Models More Like Libraries or Like
 
 K. Misra, A. Ettinger, K. Mahowald. 2024. [Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently](https://arxiv.org/abs/2401.06640). EMNLP 2024.
 
-Z. Sprague, F. Yin, J. D. Rodriguez, D. Jiang, M. Wadhwa, P. Singhal, X. Zhao, X. Ye, K. Mahowald, G. Durrett. 2024. [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183). arXiv preprint arXiv:2409.12183.
+Z. Sprague, F. Yin, J. D. Rodriguez, D. Jiang, M. Wadhwa, P. Singhal, X. Zhao, X. Ye, K. Mahowald, G. Durrett. 2025. [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183). ICLR 2025.
 
 S. Boguraev, B. Lipkin, L. Weissweiler, K. Mahowald. 2024. [Models Can and Should Embrace the Communicative Nature of Human-Generated Math](https://arxiv.org/abs/2409.17005). The 4th Workshop on Mathematical Reasoning and AI (NeurIPS Workshop).
  
