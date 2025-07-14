@@ -12,7 +12,7 @@ title:
 
 ### About me
 
-{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what AI and computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language space. A major part of this work is developing and using techniques for interpreting AI models. I also have interests in quantitative methods in the sciences. I am a winner of an NSF CAREER Award (2024-2029).
+{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what AI and computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language. A major part of this work involves developing and using techniques for interpreting AI models. I also have interests in quantitative methods in the sciences. I am a winner of an NSF CAREER Award (2024-2029).
 
 I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with [Dan Jurafsky](http://web.stanford.edu/~jurafsky/) (CS/Linguistics) and [Dan McFarland](https://profiles.stanford.edu/daniel-mcfarland) (Graduate School of Education) at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
@@ -20,21 +20,24 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 ### Articles
 
+R. Futrell, K. Mahowald. 2025 (to appear). [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
+
 S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). arXiv preprint arXiv:2505.16002.
 {% marginfigure assets/img/causal_transfer_picture.pdf 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
 
-L. Weissweiler, K. Mahowald, A. Goldberg. 2025. [Linguistic Generalizations are not Rules: Impacts on Evaluation of LMs](https://arxiv.org/abs/2502.13195). arXiv preprint arXiv:2502.13195.
+Q. Yao, K. Misra, L. Weissweiler, K. Mahowald. 2025. [Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences in Language Models](https://arxiv.org/abs/2503.20850). COLM 2025.
 
-R. Futrell, K. Mahowald. 2025. [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). arXiv preprint arXiv:2501.17047.
+S. Song, J. Hu, K. Mahowald. 2025. [Language Models Fail to Introspect About Their Knowledge of Language](https://arxiv.org/abs/2503.07513). COLM 2025.
+
+L. Weissweiler, K. Mahowald, A. Goldberg. 2025. [Linguistic Generalizations are not Rules: Impacts on Evaluation of LMs](https://arxiv.org/abs/2502.13195). arXiv preprint arXiv:2502.13195.
 
 S. Padmanabhan, K. Misra, K. Mahowald, E. Choi. 2025. [On Language Models' Sensitivity to Suspicious Coincidences](https://arxiv.org/abs/2504.09387). arXiv preprint arXiv:2504.09387.
 
-Q. Yao, K. Misra, L. Weissweiler, K. Mahowald. 2025. [Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences in Language Models](https://arxiv.org/abs/2503.20850). arXiv preprint arXiv:2503.20850.
-
-S. Song, J. Hu, K. Mahowald. 2025. [Language Models Fail to Introspect About Their Knowledge of Language](https://arxiv.org/abs/2503.07513). arXiv preprint arXiv:2503.07513.
-
 J. Rozner, L. Weissweiler, K. Mahowald, C. Shain. 2025. [Constructions are Revealed in Word Distributions](https://arxiv.org/abs/2503.06048). arXiv preprint arXiv:2503.06048.
 
+W. B. Sheffield, K. Misra, V. Pyatkin, A. Deo, K. Mahowald, J.J. Li. 2025. [Is It JUST Semantics? A Case Study of Discourse Particle Understanding in LLMs.](https://arxiv.org/pdf/2506.04534) Findings of Association for Computational Linguistics (ACL) 2025.
+
+J. Ranganathan, R. Jha, K. Misra, K. Mahowald. 2025. [semantic-features: A User-Friendly Tool for Studying Contextual Word Embeddings in Interpretable Semantic Spaces](https://www.google.com/search?client=safari&rls=en&q=ranganathan+misra+mahowald&ie=UTF-8&oe=UTF-8&safe=active). SCiL 2025. 
 
 K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827). EMNLP 2024. Outstanding Paper Award.{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
 
@@ -45,6 +48,9 @@ H. Lederman, K. Mahowald. 2024. [Are Language Models More Like Libraries or Like
 K. Misra, A. Ettinger, K. Mahowald. 2024. [Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently](https://arxiv.org/abs/2401.06640). EMNLP 2024.
 
 Z. Sprague, F. Yin, J. D. Rodriguez, D. Jiang, M. Wadhwa, P. Singhal, X. Zhao, X. Ye, K. Mahowald, G. Durrett. 2025. [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183). ICLR 2025.
+
+Tuckute, G., Mahowald, K., Isola, P., Fedorenko, E., Gibson, E., and Oliva, A. 2025. [Intrinsically memorable words have unique associations with their meanings](http://tedlab.mit.edu/tedlab_website/researchpapers/tuckute_mahowald_et_al_2025.pdf
+).  Journal of Experimental Psychology General.
 
 S. Boguraev, B. Lipkin, L. Weissweiler, K. Mahowald. 2024. [Models Can and Should Embrace the Communicative Nature of Human-Generated Math](https://arxiv.org/abs/2409.17005). The 4th Workshop on Mathematical Reasoning and AI (NeurIPS Workshop).
  
@@ -82,7 +88,7 @@ Y. Wu, W. Sheffield, K. Mahowald, J. Li. 2023. [Elaborative simplification as im
 
 S. Malik-Moraleda, K Mahowald, BR Conway, E Gibson. 2023. [Concepts Are Restructured During Language Contact: The Birth of Blue and Other Color Concepts in Tsimane’-Spanish Bilinguals](http://tedlab.mit.edu/tedlab_website/researchpapers/malik-moraleda_et_al_2023_psych_science.pdf). *Psychological Science*.
 
-S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowald, I. Blank, E. Fedorenko. 2024. [Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI](https://www.biorxiv.org/content/10.1101/2023.01.19.524657v1.abstract). *Cerebral Cortex*.
+S. Malik-Moraleda, O. Jouravlev, Z. Mineroff, T. Cucu, M. Taliaferro, K. Mahowald, I. Blank, E. Fedorenko. 2024. [Functional characterization of the language network of polyglots and hyperpolyglots with precision fMRI](https://pubmed.ncbi.nlm.nih.gov/38466812/). *Cerebral Cortex*.
 
 W. Liang, K. Mahowald, J. Raymond, V. Krishna, D. Smith, D. Jurafsky, D. McFarland, J. Zou. 2023. [How random is the review outcome? A systematic study of the impact of external factors on eLife peer review.](https://www.biorxiv.org/content/biorxiv/early/2023/01/04/2023.01.04.522708.full.pdf)
 
