@@ -23,7 +23,7 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 R. Futrell, K. Mahowald. 2025 (to appear). [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
 
 S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). arXiv preprint arXiv:2505.16002.
-{% marginfigure assets/img/causal_transfer_picture.pdf 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
+{% marginfigure assets/img/causal_transfer_picture.png 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
 
 Q. Yao, K. Misra, L. Weissweiler, K. Mahowald. 2025. [Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences in Language Models](https://arxiv.org/abs/2503.20850). COLM 2025.
 
