@@ -37,6 +37,7 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 <li><a href="https://thomashikaru.github.io">Thomas Hikaru Clark</a></li>
 <li><a href="https://honglizhan.github.io">Hongli Zhan</a></li>
 <li><a href="https://liberalarts.utexas.edu/linguistics/gradstudents/gsc685">Gabriella Chronis</a></li>
+<li><a href="https://liberalarts.utexas.edu/linguistics/gradstudents/wbs653">Will Sheffield</a></li>
 <li><a href="https://yejinchoinfo.wordpress.com">Yejin Cho</a></li>
 <li><a href="https://venkatasg.net">Venkata Govindarajan</a></li>
 <li><a href="https://www.isabelpapad.com">Isabel Papadimitriou</a></li>
