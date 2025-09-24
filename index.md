@@ -30,6 +30,21 @@ I also make crosswords and wrote about what they have to do with linguistics [he
   <li><a href="https://siyuansong.site">Siyuan Song</a></li>
 </ul>
 
+### Committee mentees past and present
+
+<ul class="dense-list">
+<li><a href="https://benlipkin.github.io">Ben Lipkin</a></li>
+<li><a href="https://thomashikaru.github.io">Thomas Hikaru Clark</a></li>
+<li><a href="https://honglizhan.github.io">Hongli Zhan</a></li>
+<li><a href="https://liberalarts.utexas.edu/linguistics/gradstudents/gsc685">Gabriella Chronis</a></li>
+<li><a href="https://yejinchoinfo.wordpress.com">Yejin Cho</a></li>
+<li><a href="https://venkatasg.net">Venkata Govindarajan</a></li>
+<li><a href="https://www.isabelpapad.com">Isabel Papadimitriou</a></li>
+<li><a href="https://www.nafal.me/">Nafal Ossandón Hostens</a></li>
+<li><a href="https://sites.google.com/view/kristiedenlinger/home">Kristie Denlinger</a></li>
+<li><a href="https://www.linguistics.pitt.edu/people/phillip-rogers">Phillip Rogers</a></li>
+</ul>
+
 ### Articles
 
 R. Futrell, K. Mahowald. 2025 (to appear). [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
