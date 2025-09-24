@@ -20,13 +20,15 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 ### Group members and alumni
 
-[Kanishka Misra](https://kanishka.website)
-[Leonie Weissweiler](https://leonieweissweiler.github.io)
-[William Rudman](https://oden.utexas.edu/people/directory/William-Rudman/)
-[Sasha Boguraev](https://sashaboguraev.github.io)
-[Qing Yao](https://dounick.github.io)
-[Josh Barua](https://joshbarua.github.io)
-[Siyuan Song](https://siyuansong.site)
+<ul class="dense-list">
+  <li><a href="https://kanishka.website">Kanishka Misra</a></li>
+  <li><a href="https://leonieweissweiler.github.io">Leonie Weissweiler</a></li>
+  <li><a href="https://oden.utexas.edu/people/directory/William-Rudman/">William Rudman</a></li>
+  <li><a href="https://sashaboguraev.github.io">Sasha Boguraev</a></li>
+  <li><a href="https://dounick.github.io">Qing Yao</a></li>
+  <li><a href="https://joshbarua.github.io">Josh Barua</a></li>
+  <li><a href="https://siyuansong.site">Siyuan Song</a></li>
+</ul>
 
 ### Articles
 
