@@ -18,11 +18,21 @@ I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedla
 
 I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin; and did a [SXSW panel on crosswords](https://schedule.sxsw.com/2024/events/PP134394). See also a [pop piece with Anna Ivanova on LLMs and thinking](https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099).
 
+### Group members and alumni
+
+[Kanishka Misra](https://kanishka.website)
+[Leonie Weissweiler](https://leonieweissweiler.github.io)
+[William Rudman](https://oden.utexas.edu/people/directory/William-Rudman/)
+[Sasha Boguraev](https://sashaboguraev.github.io)
+[Qing Yao](https://dounick.github.io)
+[Josh Barua](https://joshbarua.github.io)
+[Siyuan Song](https://siyuansong.site)
+
 ### Articles
 
 R. Futrell, K. Mahowald. 2025 (to appear). [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
 
-S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). arXiv preprint arXiv:2505.16002.
+S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). EMNLP 2025.
 {% marginfigure assets/img/causal_transfer_picture.png 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
 
 Q. Yao, K. Misra, L. Weissweiler, K. Mahowald. 2025. [Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences in Language Models](https://arxiv.org/abs/2503.20850). COLM 2025.
