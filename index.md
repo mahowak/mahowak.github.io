@@ -50,22 +50,26 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 R. Futrell, K. Mahowald. 2025 (to appear). [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
 
-S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). EMNLP 2025.
+S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). EMNLP 2025. Oustanding Paper Award.
 {% marginfigure assets/img/causal_transfer_picture.png 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
+
+J. Rozner, L. Weissweiler, K. Mahowald, C. Shain. 2025. [Constructions are Revealed in Word Distributions](https://arxiv.org/abs/2503.06048). EMNLP 2025. Senior Area Chair Highlight.
 
 Q. Yao, K. Misra, L. Weissweiler, K. Mahowald. 2025. [Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences in Language Models](https://arxiv.org/abs/2503.20850). COLM 2025.
 
 S. Song, J. Hu, K. Mahowald. 2025. [Language Models Fail to Introspect About Their Knowledge of Language](https://arxiv.org/abs/2503.07513). COLM 2025.
 
-L. Weissweiler, K. Mahowald, A. Goldberg. 2025. [Linguistic Generalizations are not Rules: Impacts on Evaluation of LMs](https://arxiv.org/abs/2502.13195). arXiv preprint arXiv:2502.13195.
+L. Weissweiler, K. Mahowald, A. Goldberg. 2025. [Linguistic Generalizations are not Rules: Impacts on Evaluation of LMs](https://arxiv.org/abs/2502.13195). The Second International Workshop on Construction Grammars and NLP. 
 
-S. Padmanabhan, K. Misra, K. Mahowald, E. Choi. 2025. [On Language Models' Sensitivity to Suspicious Coincidences](https://arxiv.org/abs/2504.09387). arXiv preprint arXiv:2504.09387.
+S. Padmanabhan, K. Misra, K. Mahowald, E. Choi. 2025. [On Language Models' Sensitivity to Suspicious Coincidences](https://arxiv.org/abs/2504.09387). PragLM Workshop at COLM 2025.
 
-J. Rozner, L. Weissweiler, K. Mahowald, C. Shain. 2025. [Constructions are Revealed in Word Distributions](https://arxiv.org/abs/2503.06048). arXiv preprint arXiv:2503.06048.
+F. Fehlauer, K. Mahowald, T. Pimentel. Convergence and divergence of language models under different random seeds. EMNLP 2025.
 
 W. B. Sheffield, K. Misra, V. Pyatkin, A. Deo, K. Mahowald, J.J. Li. 2025. [Is It JUST Semantics? A Case Study of Discourse Particle Understanding in LLMs.](https://arxiv.org/pdf/2506.04534) Findings of Association for Computational Linguistics (ACL) 2025.
 
 J. Ranganathan, R. Jha, K. Misra, K. Mahowald. 2025. [semantic-features: A User-Friendly Tool for Studying Contextual Word Embeddings in Interpretable Semantic Spaces](https://www.google.com/search?client=safari&rls=en&q=ranganathan+misra+mahowald&ie=UTF-8&oe=UTF-8&safe=active). SCiL 2025. 
+
+S. Boguraev, K. Erk, K. Mahowald, J. W. Shearer, S. M. Wechsler. 2025. Reinforcement learning produces efficient case-marking systems. In Proceedings of the Annual Meeting of the Cognitive Science Society, Volume 47 (2025), pages 2584-2590. 
 
 K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827). EMNLP 2024. Outstanding Paper Award.{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
 
