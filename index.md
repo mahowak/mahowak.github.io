@@ -12,11 +12,11 @@ title:
 
 ### About me
 
-{% newthought 'I am an assistant professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at University of Texas at Austin (formerly at UCSB). I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what AI and computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language. A major part of this work involves developing and using techniques for interpreting AI models. I also have interests in quantitative methods in the sciences. I am a winner of an NSF CAREER Award (2024-2029).
+{% newthought 'I am an Assistant Professor (Associate Professor with Tenure from Fall 2026)'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what AI and computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language. A major part of this work involves developing and using techniques for interpreting AI models. I am a winner of an NSF CAREER Award (2024-2029) and have contributed to papers that won Best Paper at ACL 2025 and Outstanding Paper at EMNLP 2023, 2024, and 2025.
 
 I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with [Dan Jurafsky](http://web.stanford.edu/~jurafsky/) (CS/Linguistics) and [Dan McFarland](https://profiles.stanford.edu/daniel-mcfarland) (Graduate School of Education) at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
-I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin; and did a [SXSW panel on crosswords](https://schedule.sxsw.com/2024/events/PP134394). See also a [pop piece with Anna Ivanova on LLMs and thinking](https://theconversation.com/googles-powerful-ai-spotlights-a-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought-185099).
+I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin.
 
 ### Group members and alumni
 
@@ -30,9 +30,10 @@ I also make crosswords and wrote about what they have to do with linguistics [he
   <li><a href="https://siyuansong.site">Siyuan Song</a></li>
 </ul>
 
-### Committee mentees past and present
+### Committee mentees and other mentees past and present
 
 <ul class="dense-list">
+<li><a href="https://agneselombardi.github.io">Agnese Lombardi</a></li>
 <li><a href="https://benlipkin.github.io">Ben Lipkin</a></li>
 <li><a href="https://thomashikaru.github.io">Thomas Hikaru Clark</a></li>
 <li><a href="https://honglizhan.github.io">Hongli Zhan</a></li>
@@ -48,7 +49,15 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 ### Articles
 
-R. Futrell, K. Mahowald. 2025 (to appear). [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
+C.R. Jones, A. Lombardi, K. Mahowald, B.K. Bergen. 2026. [LLMs and People Both Learn to Form Conventions--Just Not with Each Other](https://arxiv.org/abs/2602.08208). *arXiv preprint*.
+
+M. Ramscar, S. Chen, R. Futrell, K. Mahowald. 2026. [Cross-Cultural Structures of Personal Name Systems Reflect General Communicative Principles](https://www.nature.com/articles/s41467-025-67079-8). *Nature Communications*.
+
+J. Hu, E.G. Wilcox, S. Song, K. Mahowald, R.P. Levy. 2026. [What Can String Probability Tell Us About Grammaticality?](https://arxiv.org/abs/2510.16227). *Transactions of the Association for Computational Linguistics* 14, 124-146.
+
+W. Rudman, M. Golovanevsky, D. Arad, Y. Belinkov, R. Singh, C. Eickhoff, K. Mahowald. 2026. [Mechanisms of Prompt-Induced Hallucination in Vision-Language Models](https://arxiv.org/abs/2601.05201). *arXiv preprint*.
+
+R. Futrell, K. Mahowald. 2025. [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
 
 S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). EMNLP 2025. Oustanding Paper Award.
 {% marginfigure assets/img/causal_transfer_picture.png 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
@@ -69,7 +78,9 @@ W. B. Sheffield, K. Misra, V. Pyatkin, A. Deo, K. Mahowald, J.J. Li. 2025. [Is I
 
 J. Ranganathan, R. Jha, K. Misra, K. Mahowald. 2025. [semantic-features: A User-Friendly Tool for Studying Contextual Word Embeddings in Interpretable Semantic Spaces](https://www.google.com/search?client=safari&rls=en&q=ranganathan+misra+mahowald&ie=UTF-8&oe=UTF-8&safe=active). SCiL 2025. 
 
-S. Boguraev, K. Erk, K. Mahowald, J. W. Shearer, S. M. Wechsler. 2025. Reinforcement learning produces efficient case-marking systems. In Proceedings of the Annual Meeting of the Cognitive Science Society, Volume 47 (2025), pages 2584-2590. 
+S. Boguraev, K. Erk, K. Mahowald, J. W. Shearer, S. M. Wechsler. 2025. Reinforcement learning produces efficient case-marking systems. In Proceedings of the Annual Meeting of the Cognitive Science Society, Volume 47 (2025), pages 2584-2590.
+
+S. Song, H. Lederman, J. Hu, K. Mahowald. 2025. [Privileged Self-Access Matters for Introspection in AI](https://arxiv.org/abs/2508.14802). *arXiv preprint*.
 
 K Misra, K Mahowald. 2024. [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827). EMNLP 2024. Outstanding Paper Award.{% marginfigure assets/img/aann.png 'Misra and Mahowald (2024) systematically trains small language models on controlled input corpora and studies the learning of the AANN "a beautiful five days" construction. Models can learn it even when the construction is absent, suggesting transfer from related constructions.' %}
 
