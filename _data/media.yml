@@ -1,0 +1,29 @@
+# Compact "In the Media" list on index.md (rendered by _includes/media_list.html). Order = display order.
+- outlet: NPR On Point
+  title: "Brainwaves: Is AI actually thinking?"
+  date: Feb 2026
+  url: https://www.wbur.org/onpoint/2026/02/11/brainwaves-artificial-intelligence-human-behavior
+- outlet: Quanta
+  title: Can AI Models Show Us How People Learn? Impossible Languages Point a Way
+  date: Jan 2025
+  url: https://www.quantamagazine.org/can-ai-models-show-us-how-people-learn-impossible-languages-point-a-way-20250113/
+- outlet: The New York Times
+  title: Do We Need Language to Think?
+  date: Jun 2024
+  url: https://www.nytimes.com/2024/06/19/science/brain-language-thought.html
+- outlet: The Economist's Babbage podcast
+  title: The Science That Built the AI Revolution, Part Four
+  date: Mar 2024
+  url: https://shows.acast.com/theeconomistbabbage/episodes/babbage-the-science-that-built-the-ai-revolutionpart-four
+- outlet: Wired
+  title: Some Glimpse AGI in ChatGPT. Others Call It a Mirage
+  date: Apr 2023
+  url: https://www.wired.com/story/chatgpt-agi-intelligence/
+- outlet: The Atlantic
+  title: The Difference Between Speaking and Thinking
+  date: Jan 2023
+  url: https://www.theatlantic.com/technology/archive/2023/01/chatgpt-ai-language-human-computer-grammar-logic/672902/
+- outlet: The Ringer
+  title: What to Do When Playing the Word Game Wordle Isn't Enough? Solve It.
+  date: Jan 2022
+  url: https://www.theringer.com/2022/01/07/pop-culture/what-to-do-when-playing-the-word-game-wordle-isnt-enough-solve-it

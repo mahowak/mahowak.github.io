@@ -33,6 +33,10 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 {% include people_list.html people=site.data.people.committee %}
 
+### In the Media
+
+{% include media_list.html items=site.data.media %}
+
 ### Articles
 
 R. Futrell, K. Mahowald. 2026. [How Linguistics Learned to Stop Worrying and Love the Language Models](assets/pdf/how-linguistics-learned-to-stop-worrying-and-love-the-language-models.pdf). *Behavioral and Brain Sciences* 49:e198. Target article. See also our response to the commentaries: [You Can't Fight in Here! This is BBS!](https://arxiv.org/abs/2604.09501) *Behavioral and Brain Sciences* 49:e224.

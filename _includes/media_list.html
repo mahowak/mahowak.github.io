@@ -1,0 +1,2 @@
+{% comment %}Compact inline media list: Outlet, "Title" (Mon YYYY) · ... Reads include.items{% endcomment %}
+<p class="media-line">{% for m in include.items %}{% if m.url %}<a href="{{ m.url }}">{% endif %}<span class="media-outlet">{{ m.outlet }}</span>, &ldquo;{{ m.title }}&rdquo;{% if m.url %}</a>{% endif %} <span class="media-date">({{ m.date }})</span>{% unless forloop.last %} <span class="media-sep">&middot;</span> {% endunless %}{% endfor %}</p>

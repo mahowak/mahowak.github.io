@@ -690,3 +690,14 @@ h4.people-heading {
   color: #555;
   font-size: 0.85em;
 }
+
+/* Compact media list */
+.media-line {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0.2rem 0 0.9rem 0;
+}
+.media-line a { text-decoration: none; }
+.media-line .media-outlet { font-weight: 600; }
+.media-line .media-date { color: #666; font-size: 0.85em; }
+.media-line .media-sep { color: #999; padding: 0 0.15em; }
