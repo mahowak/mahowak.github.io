@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Kyle Mahowald</title>
-  <meta name="description" content="Kyle Mahowald's Page">
-
-
-  <link rel="stylesheet" href="css/tufte.css">	
-  
-
-  <!-- Google Fonts loaded here -->
-  <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
-
-  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
-  
-
-  <link rel="canonical" href="/">
-  <link rel="alternate" type="application/rss+xml" title="Kyle Mahowald" href="/feed.xml" />
-</head>
-
-  <body>
-    <!--- Header and nav template site-wide -->
-<header>
-    <nav class="group">
-		<a href=""><img class="badge" src="assets/img/logo.png"></a>
-		<a href="https://scholar.google.com/citations?user=XUmFLVUAAAAJ&hl=en">Google Scholar</a>
-		<a href="https://docs.google.com/document/d/e/2PACX-1vSoRmuhEwwcePA795R4XhmIKjKlkSWV5KY6uRFRU7IudsFQVtinAj2b8_yisOtGdz9Qd4cKyz6s1JSS/pub">CV</a>
-                <a href="https://osf.io/dvyq6">OSF</a>
-                		<a href="http://www.xwordinfo.com/Thumbs?author=Kyle+Mahowald">Xword</a>
-                                <a href="mailto:kyle@utexas.edu"><span class="icon-mail"></span></a>  <a href="http://www.twitter.com/kmahowald"><span class="icon-twitter"></span></a>
-	</nav>
-</header>
-
-    <article>
-      <h1></h1>
-<p></p>
-
-
-<p><span class="marginnote"></span><img class="fullwidth" src="assets/img/kyle_2025.jpg" /></p>
+I"��<p><span class="marginnote"></span><img class="fullwidth" src="assets/img/kyle_2025.jpg" /></p>
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
 <p><a href="mailto:mahowald@utexas.edu"> mahowald@utexas.edu</a>
@@ -165,8 +123,7 @@
 
 <p>M. Ryskina, M.R. Gormley, K. Mahowald, D.R. Mortensen, T. Berg-Kirkpatrick, V. Kulkarni. 2026. <a href="https://arxiv.org/abs/2602.13123">From Sunblock to Softblock: Analyzing the Correlates of Neology in Published Writing and on Social Media</a>. Proceedings of the 6th International Workshop on Computational Approaches to Language Change (LChange’26).</p>
 
-<p>S. Boguraev, Q. Yao, K. Mahowald. 2026. <a href="https://arxiv.org/abs/2602.23547">France or Spain or Germany or France: A Neural Account of Non-Redundant Redundant Disjunctions</a>. CogSci 2026.
-<span class="marginnote"><a href="https://arxiv.org/abs/2602.23547"><img class="fullwidth" src="assets/img/france_germany.jpg" /></a>Boguraev, Yao, and Mahowald (2026) study seemingly redundant disjunctions like “France or Spain or Germany or France”: in language models, copying an earlier disjunct is suppressed in ordinary contexts but licensed when context makes the repetition non-redundant, an account of a puzzling pattern in human language.</span></p>
+<p>S. Boguraev, Q. Yao, K. Mahowald. 2026. <a href="https://arxiv.org/abs/2602.23547">France or Spain or Germany or France: A Neural Account of Non-Redundant Redundant Disjunctions</a>. CogSci 2026.</p>
 
 <p>C.R. Jones, A. Lombardi, K. Mahowald, B.K. Bergen. 2026. <a href="https://arxiv.org/abs/2602.08208">LLMs and People Both Learn to Form Conventions–Just Not with Each Other</a>. CogSci 2026.</p>
 
@@ -346,21 +303,4 @@ var sc_security="be6c0554";
 
 <noscript><div class="statcounter"><a title="hit counter" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/8927616/0/be6c0554/1/" alt="hit counter" /></a></div></noscript>
 <!-- End of Statcounter Code -->
-
-
-
-    </article>
-    <span class="print-footer"> - Kyle Mahowald</span>
-    <footer>
-  <ul class="footer-links group">
-    <li><a href="mailto:kyle@utexas.edu"><span class="icon-mail"></span></a></li>    
-      
-  </ul>
-<div class="credits">
-<span>&copy; 2026 &nbsp;&nbsp;KYLE MAHOWALD</span></br> 
-<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for Content-centric blogging </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
-</div>  
-</footer>
-
-  </body>
-</html>
+:ET

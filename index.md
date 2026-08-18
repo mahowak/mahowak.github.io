@@ -35,13 +35,14 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 
 ### Articles
 
+R. Futrell, K. Mahowald. 2026. [How Linguistics Learned to Stop Worrying and Love the Language Models](assets/pdf/how-linguistics-learned-to-stop-worrying-and-love-the-language-models.pdf). *Behavioral and Brain Sciences* 49:e198. Target article. See also our response to the commentaries: [You Can't Fight in Here! This is BBS!](https://arxiv.org/abs/2604.09501) *Behavioral and Brain Sciences* 49:e224.
+{% marginfigure assets/img/bbs_img.jpg 'Futrell and Mahowald (2026), "How Linguistics Learned to Stop Worrying and Love the Language Models," argues that language models are useful for linguistics: linguistic structure is a real pattern that can be studied at multiple levels of abstraction, both *in silico* and *in vivo*.' 'assets/pdf/how-linguistics-learned-to-stop-worrying-and-love-the-language-models.pdf' %}
+
 W. Rudman, A. Divekar, K. Jain, S. Joseph, S.S.R. Offner, M. Lease, K. Mahowald, G. Durrett, J.J. Li. 2026. [VESTA: Visual Exploration with Statistical Tool Agents](https://arxiv.org/abs/2606.00384). *arXiv preprint*.
 
 D. Drucker, K. Mahowald. 2026. [The Counterexample Game: Iterated Conceptual Analysis and Repair in Language Models](https://arxiv.org/abs/2605.03936). CogSci 2026.
 
 S. Boguraev, K. Mahowald. 2026. [Causal Drawbridges: Characterizing Gradient Blocking of Syntactic Islands in Transformer LMs](https://arxiv.org/abs/2604.13950). COLM 2026.
-
-R. Futrell, K. Mahowald. 2026. [How Linguistics Learned to Stop Worrying and Love the Language Models](assets/pdf/how-linguistics-learned-to-stop-worrying-and-love-the-language-models.pdf). *Behavioral and Brain Sciences* 49:e198. Target article. See also our response to the commentaries: [You Can't Fight in Here! This is BBS!](https://arxiv.org/abs/2604.09501) *Behavioral and Brain Sciences* 49:e224.
 
 J. Nemitz, C. Eickhoff, J.J. Li, K. Mahowald, M. Golovanevsky, W. Rudman. 2026. [When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't](https://arxiv.org/abs/2604.06422). COLM 2026.
 
@@ -52,6 +53,7 @@ H. Lederman, K. Mahowald. 2026. [Emergent Introspection in AI is Content-Agnosti
 M. Ryskina, M.R. Gormley, K. Mahowald, D.R. Mortensen, T. Berg-Kirkpatrick, V. Kulkarni. 2026. [From Sunblock to Softblock: Analyzing the Correlates of Neology in Published Writing and on Social Media](https://arxiv.org/abs/2602.13123). Proceedings of the 6th International Workshop on Computational Approaches to Language Change (LChange'26).
 
 S. Boguraev, Q. Yao, K. Mahowald. 2026. [France or Spain or Germany or France: A Neural Account of Non-Redundant Redundant Disjunctions](https://arxiv.org/abs/2602.23547). CogSci 2026.
+{% marginfigure assets/img/france_germany.jpg 'Boguraev, Yao, and Mahowald (2026) study seemingly redundant disjunctions like "France or Spain or Germany or France": in language models, copying an earlier disjunct is suppressed in ordinary contexts but licensed when context makes the repetition non-redundant, an account of a puzzling pattern in human language.' 'https://arxiv.org/abs/2602.23547' %}
 
 C.R. Jones, A. Lombardi, K. Mahowald, B.K. Bergen. 2026. [LLMs and People Both Learn to Form Conventions--Just Not with Each Other](https://arxiv.org/abs/2602.08208). CogSci 2026.
 
