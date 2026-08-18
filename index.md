@@ -41,15 +41,31 @@ Collaborators with whom I've co-authored five or more papers.{% sidenote 2 'Name
 
 ### Articles
 
-C.R. Jones, A. Lombardi, K. Mahowald, B.K. Bergen. 2026. [LLMs and People Both Learn to Form Conventions--Just Not with Each Other](https://arxiv.org/abs/2602.08208). *arXiv preprint*.
+W. Rudman, A. Divekar, K. Jain, S. Joseph, S.S.R. Offner, M. Lease, K. Mahowald, G. Durrett, J.J. Li. 2026. [VESTA: Visual Exploration with Statistical Tool Agents](https://arxiv.org/abs/2606.00384). *arXiv preprint*.
+
+D. Drucker, K. Mahowald. 2026. [The Counterexample Game: Iterated Conceptual Analysis and Repair in Language Models](https://arxiv.org/abs/2605.03936). CogSci 2026.
+
+S. Boguraev, K. Mahowald. 2026. [Causal Drawbridges: Characterizing Gradient Blocking of Syntactic Islands in Transformer LMs](https://arxiv.org/abs/2604.13950). COLM 2026.
+
+R. Futrell, K. Mahowald. 2026. [How Linguistics Learned to Stop Worrying and Love the Language Models](assets/pdf/how-linguistics-learned-to-stop-worrying-and-love-the-language-models.pdf). *Behavioral and Brain Sciences* 49:e198. Target article. See also our response to the commentaries: [You Can't Fight in Here! This is BBS!](https://arxiv.org/abs/2604.09501) *Behavioral and Brain Sciences* 49:e224.
+
+J. Nemitz, C. Eickhoff, J.J. Li, K. Mahowald, M. Golovanevsky, W. Rudman. 2026. [When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't](https://arxiv.org/abs/2604.06422). COLM 2026.
+
+S. Rakshit, J. Hu, K. Mahowald, A.E. Goldberg. 2026. [A Suite of LMs Comprehend Puzzle Statements as Well or Better Than Humans](https://doi.org/10.1162/opmi.a.344). *Open Mind* 10, 431-440.
+
+H. Lederman, K. Mahowald. 2026. [Emergent Introspection in AI is Content-Agnostic](https://arxiv.org/abs/2603.05414). *arXiv preprint*.
+
+M. Ryskina, M.R. Gormley, K. Mahowald, D.R. Mortensen, T. Berg-Kirkpatrick, V. Kulkarni. 2026. [From Sunblock to Softblock: Analyzing the Correlates of Neology in Published Writing and on Social Media](https://arxiv.org/abs/2602.13123). Proceedings of the 6th International Workshop on Computational Approaches to Language Change (LChange'26).
+
+S. Boguraev, Q. Yao, K. Mahowald. 2026. [France or Spain or Germany or France: A Neural Account of Non-Redundant Redundant Disjunctions](https://arxiv.org/abs/2602.23547). CogSci 2026.
+
+C.R. Jones, A. Lombardi, K. Mahowald, B.K. Bergen. 2026. [LLMs and People Both Learn to Form Conventions--Just Not with Each Other](https://arxiv.org/abs/2602.08208). CogSci 2026.
 
 M. Ramscar, S. Chen, R. Futrell, K. Mahowald. 2026. [Cross-Cultural Structures of Personal Name Systems Reflect General Communicative Principles](https://www.nature.com/articles/s41467-025-67079-8). *Nature Communications*.
 
 J. Hu, E.G. Wilcox, S. Song, K. Mahowald, R.P. Levy. 2026. [What Can String Probability Tell Us About Grammaticality?](https://arxiv.org/abs/2510.16227). *Transactions of the Association for Computational Linguistics* 14, 124-146.
 
-W. Rudman, M. Golovanevsky, D. Arad, Y. Belinkov, R. Singh, C. Eickhoff, K. Mahowald. 2026. [Mechanisms of Prompt-Induced Hallucination in Vision-Language Models](https://arxiv.org/abs/2601.05201). *arXiv preprint*.
-
-R. Futrell, K. Mahowald. 2025. [How Linguistics Learned to Stop Worrying and Love the Language Models](https://arxiv.org/abs/2501.17047). *Brain and Behavioral Sciences* target article.
+W. Rudman, M. Golovanevsky, D. Arad, Y. Belinkov, R. Singh, C. Eickhoff, K. Mahowald. 2026. [Mechanisms of Prompt-Induced Hallucination in Vision-Language Models](https://arxiv.org/abs/2601.05201). ACL 2026.
 
 S. Boguraev, C. Potts, K. Mahowald. 2025. [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002). EMNLP 2025. Oustanding Paper Award.
 {% marginfigure assets/img/causal_transfer_picture.png 'Boguraev et al. (2025) applies causal intervention techniques to LLMs and shows that diverse filler-gap constructions (e.g., *wh*-questions, relative clauses) share common internal structure representations, suggesting abstract grammatical convergence.' %}
