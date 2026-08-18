@@ -1,4 +1,8 @@
 # Compact "In the Media" list on index.md (rendered by _includes/media_list.html). Order = display order.
+- outlet: Texas Connect
+  title: "Think Inside the Boxes: Linguistics Professor Has a Passion for Crossword Puzzles"
+  date: Mar 2026
+  url: https://texasconnect.utexas.edu/2026/03/23/thinking-inside-the-boxes-linguistics-professor-has-a-passion-for-crossword-puzzles/
 - outlet: NPR On Point
   title: "Brainwaves: Is AI actually thinking?"
   date: Feb 2026
