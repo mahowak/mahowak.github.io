@@ -633,3 +633,60 @@ span.newthought {
   content: "\e60e"; }
 
 /*-- End of Icomoon icon font section --*/
+
+/* People grid (lab members / alumni) */
+.people-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 1.2rem;
+  margin: 0.4rem 0 1.4rem 0;
+  padding: 0;
+  list-style: none;
+  width: 100%;
+}
+.people-grid li {
+  width: 7.2rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 0.85rem;
+  line-height: 1.15;
+}
+.people-grid img,
+.people-grid .person-placeholder {
+  width: 4.2rem;
+  height: 4.2rem;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 0.35rem auto;
+  background: #e6e6e6;
+}
+.people-grid .person-placeholder {
+  line-height: 4.2rem;
+  color: #666;
+  font-size: 1.3rem;
+  font-style: normal;
+}
+.people-grid .person-name a {
+  text-decoration: none;
+  background: none;
+  text-shadow: none;
+  font-weight: 600;
+}
+.people-grid .person-now {
+  display: block;
+  color: #555;
+  font-size: 0.75rem;
+  line-height: 1.15;
+  margin-top: 0.15rem;
+}
+h4.people-heading {
+  font-style: italic;
+  font-weight: 400;
+  margin: 1rem 0 0.2rem 0;
+}
+.people-list .person-now-inline {
+  color: #555;
+  font-size: 0.85em;
+}

@@ -1,0 +1,13 @@
+{% comment %}
+Usage: {% include people.html group="current" %}
+Reads people from _data/people.yml
+{% endcomment %}
+<ul class="people-grid">
+{% for p in include.people %}
+  <li>
+    {% if p.img %}<a href="{{ p.url }}"><img src="assets/img/people/{{ p.img }}" alt="{{ p.name }}"></a>{% else %}<span class="person-placeholder">{{ p.name | slice: 0 }}</span>{% endif %}
+    <span class="person-name">{% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</span>
+    {% if p.now %}<span class="person-now">{{ p.now }}</span>{% endif %}
+  </li>
+{% endfor %}
+</ul>

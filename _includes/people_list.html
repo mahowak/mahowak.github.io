@@ -1,0 +1,5 @@
+<ul class="dense-list people-list">
+{% for p in include.people %}
+  <li>{% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}{% if p.now %} <span class="person-now-inline">&mdash; {{ p.now }}</span>{% endif %}</li>
+{% endfor %}
+</ul>

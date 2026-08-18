@@ -1,0 +1,118 @@
+# People shown in the "Lab" section of index.md (rendered by _includes/people.html).
+# Fields: name, url, img (filename in assets/img/people/; omit for an initial placeholder),
+#         now ("where are they now" / current role — shown under the name).
+# To add a photo: drop a square-ish jpg into assets/img/people/ and set img: filename.jpg
+# (a `sips -Z 240 file.jpg` keeps it small).
+
+current:
+  - name: William Rudman
+    url: https://wrudman.github.io
+    img: rudman.jpg
+    now: Postdoc
+  - name: Sasha Boguraev
+    url: https://sashaboguraev.github.io
+    img: boguraev.jpg
+    now: PhD student
+  - name: Qing Yao
+    url: https://dounick.github.io
+    img: yao.jpg
+    now: PhD student
+
+postdoc_alumni:
+  - name: Kanishka Misra
+    url: https://kanishka.website
+    img: misra.jpg
+    now: Assistant Professor, UT Austin Linguistics
+  - name: Leonie Weissweiler
+    url: https://leonieweissweiler.github.io
+    img: weissweiler.jpg
+    now: Assistant Professor, Leipzig University
+
+undergrad_alumni:
+  - name: Siyuan Song
+    url: https://siyuansong.site
+    img: song.jpg
+    now: PhD student, Princeton
+  - name: Josh Barua
+    url: https://joshbarua.github.io
+    img: barua.jpg
+    now: Research Fellow, Cambridge-Boston Alignment Initiative
+  # Earlier undergrad RAs listed on the CV — uncomment / fill in as desired:
+  # - name: Ishan Shah
+  # - name: Reese Feldmeier
+  # - name: Isabel Erwin
+  # - name: Emma Gueorguieva
+  # - name: Kathryn Kazanas
+  # - name: Keziah Reina
+  # - name: Alex Jones
+
+# Committee mentees etc. — rendered as a plain list (no photos).
+committee:
+  - name: Agnese Lombardi
+    url: https://agneselombardi.github.io
+    now: Postdoc, IUSS Pavia (PhD, Pisa)
+  - name: Ben Lipkin
+    url: https://benlipkin.github.io
+    now: Research Scientist (PhD, MIT)
+  - name: Thomas Hikaru Clark
+    url: https://thomashikaru.github.io
+    now: Faculty Fellow, NYU Center for Data Science (PhD, MIT)
+  - name: Hongli Zhan
+    url: https://honglizhan.github.io
+    now: Research Scientist, MBZUAI Silicon Valley Lab (PhD, UT Austin)
+  - name: Gabriella Chronis
+    url: https://liberalarts.utexas.edu/linguistics/gradstudents/gsc685
+    now: PhD, UT Austin
+  - name: Yejin Cho
+    url: https://yejinchoinfo.wordpress.com
+    now: PhD, UT Austin
+  - name: Venkata Govindarajan
+    url: https://venkatasg.net
+    now: Assistant Professor of CS, Ithaca College (PhD, UT Austin)
+  - name: Isabel Papadimitriou
+    url: https://www.isabelpapad.com
+    now: Assistant Professor of Linguistics, UBC (PhD, Stanford)
+  - name: Nafal Ossandón Hostens
+    url: https://www.nafal.me/
+    now: Policy Advisor, NVAO (PhD, UT Austin)
+  - name: Kristie Denlinger
+    url: https://sites.google.com/view/kristiedenlinger/home
+    now: Lecturer, UT Austin Linguistics (PhD, UT Austin)
+  - name: Phillip Rogers
+    url: https://www.linguistics.pitt.edu/people/phillip-rogers
+    now: Teaching Assistant Professor, University of Pittsburgh (PhD, UCSB)
+
+# Five-Timers Club: co-authors on 5+ papers (counted from CV, July 2026). `now` = paper count.
+five_timers:
+  - name: Ted Gibson
+    url: https://tedlab.mit.edu
+    img: gibson.jpg
+    now: 20 papers
+  - name: Richard Futrell
+    url: https://socsci.uci.edu/~rfutrell/
+    img: futrell.jpg
+    now: 15 papers
+  - name: Ev Fedorenko
+    url: https://evlab.mit.edu
+    img: fedorenko.jpg
+    now: 12 papers
+  - name: Steve Piantadosi
+    url: https://colala.berkeley.edu
+    img: piantadosi.jpg
+    now: 8 papers
+  - name: Kanishka Misra
+    url: https://kanishka.website
+    img: misra.jpg
+    now: 6 papers
+  - name: Isabelle Dautriche
+    url: https://isabelledautriche.github.io
+    img: dautriche.jpg
+    now: 5 papers
+  - name: Venkata Govindarajan
+    url: https://venkatasg.net
+    img: govindarajan.jpg
+    now: 5 papers
+  - name: Jessy Li
+    url: https://jessyli.com
+    img: li.jpg
+    now: 5 papers

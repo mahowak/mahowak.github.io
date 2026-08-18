@@ -2,7 +2,7 @@
 layout: post
 title:
 ---
-{% maincolumn assets/img/kylefogo2.png '' %}
+{% maincolumn assets/img/kyle_2025.jpg '' %}
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
 <a href="mailto:mahowald@utexas.edu"> mahowald@utexas.edu</a>
@@ -12,40 +12,32 @@ title:
 
 ### About me
 
-{% newthought I am an Associate Professor%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what AI and computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language. A major part of this work involves developing and using techniques for interpreting AI models. I am a winner of an NSF CAREER Award (2024-2029) and have contributed to papers that won Best Paper at ACL 2025 and Outstanding Paper at EMNLP 2023, 2024, and 2025.
+{% newthought 'I am an Associate Professor'%} in [linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. I'm accepting students, am a member of the [Computational Linguistics Research Group](https://sites.utexas.edu/compling/) here at UT, and am part of the [wider UT Austin NLP community](https://www.nlp.utexas.edu).I am interested in what AI and computational language models can tell us about human language and the human mind, how linguistic efficiency can explain aspects of linguistic behavior and typology, and a variety of other topcis in the cognitive science of language. A major part of this work involves developing and using techniques for interpreting AI models. I am a winner of an NSF CAREER Award (2024-2029) and have contributed to papers that won Best Paper at ACL 2025 and Outstanding Paper at EMNLP 2023, 2024, and 2025.
 
 I graduated with my Ph.D. from [Ted Gibson's psycholinguistics lab](http://tedlab.mit.edu/) in MIT's [Brain and Cognitive Sciences](http://bcs.mit.edu/) department and did my postdoc with [Dan Jurafsky](http://web.stanford.edu/~jurafsky/) (CS/Linguistics) and [Dan McFarland](https://profiles.stanford.edu/daniel-mcfarland) (Graduate School of Education) at Stanford. Before that, I was a Marshall Scholar at Oxford University studying linguistics with [Mary Dalrymple](http://users.ox.ac.uk/~cpgl0015/) and [Aditi Lahiri](http://www.ling-phil.ox.ac.uk/lahiri). And before that I was an undergrad in English at Harvard.{% sidenote 1 'About *me*: *Me* is the first person object pronoun in English. It goes back to the accusative and dative in Old English and before that to an Indo-European pronoun that would probably remind you of me.'%}
 
 I also make crosswords and wrote about what they have to do with linguistics [here](https://www.theatlantic.com/science/archive/2023/08/writing-crossword-puzzle-clues-rules-grammar-compositionality/674938/) in The Atlantic, with Scott AnderBois and Nick Tomlin.
 
-### Group members and alumni
+### Lab
 
-<ul class="dense-list">
-  <li><a href="https://kanishka.website">Kanishka Misra</a></li>
-  <li><a href="https://leonieweissweiler.github.io">Leonie Weissweiler</a></li>
-  <li><a href="https://oden.utexas.edu/people/directory/William-Rudman/">William Rudman</a></li>
-  <li><a href="https://sashaboguraev.github.io">Sasha Boguraev</a></li>
-  <li><a href="https://dounick.github.io">Qing Yao</a></li>
-  <li><a href="https://joshbarua.github.io">Josh Barua</a></li>
-  <li><a href="https://siyuansong.site">Siyuan Song</a></li>
-</ul>
+<h4 class="people-heading">Current members</h4>
+{% include people.html people=site.data.people.current %}
 
-### Committee mentees and other mentees past and present
+<h4 class="people-heading">Postdoc alumni</h4>
+{% include people.html people=site.data.people.postdoc_alumni %}
 
-<ul class="dense-list">
-<li><a href="https://agneselombardi.github.io">Agnese Lombardi</a></li>
-<li><a href="https://benlipkin.github.io">Ben Lipkin</a></li>
-<li><a href="https://thomashikaru.github.io">Thomas Hikaru Clark</a></li>
-<li><a href="https://honglizhan.github.io">Hongli Zhan</a></li>
-<li><a href="https://liberalarts.utexas.edu/linguistics/gradstudents/gsc685">Gabriella Chronis</a></li>
-<li><a href="https://liberalarts.utexas.edu/linguistics/gradstudents/wbs653">Will Sheffield</a></li>
-<li><a href="https://yejinchoinfo.wordpress.com">Yejin Cho</a></li>
-<li><a href="https://venkatasg.net">Venkata Govindarajan</a></li>
-<li><a href="https://www.isabelpapad.com">Isabel Papadimitriou</a></li>
-<li><a href="https://www.nafal.me/">Nafal Ossandón Hostens</a></li>
-<li><a href="https://sites.google.com/view/kristiedenlinger/home">Kristie Denlinger</a></li>
-<li><a href="https://www.linguistics.pitt.edu/people/phillip-rogers">Phillip Rogers</a></li>
-</ul>
+<h4 class="people-heading">Undergrad / postbac alumni</h4>
+{% include people.html people=site.data.people.undergrad_alumni %}
+
+### Five-Timers Club
+
+Collaborators with whom I've co-authored five or more papers.{% sidenote 2 'Named, of course, for the [SNL Five-Timers Club](https://en.wikipedia.org/wiki/Saturday_Night_Live_Five-Timers_Club). Counts from my CV as of 2026.' %}
+
+{% include people.html people=site.data.people.five_timers %}
+
+### Ph.D. Committee Mentees
+
+{% include people_list.html people=site.data.people.committee %}
 
 ### Articles
 
