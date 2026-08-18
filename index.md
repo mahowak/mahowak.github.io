@@ -29,12 +29,6 @@ I also make crosswords and wrote about what they have to do with linguistics [he
 <h4 class="people-heading">Undergrad / postbac alumni</h4>
 {% include people.html people=site.data.people.undergrad_alumni %}
 
-### Five-Timers Club
-
-Collaborators with whom I've co-authored five or more papers.{% sidenote 2 'Named, of course, for the [SNL Five-Timers Club](https://en.wikipedia.org/wiki/Saturday_Night_Live_Five-Timers_Club). Counts from my CV as of 2026.' %}
-
-{% include people.html people=site.data.people.five_timers %}
-
 ### Ph.D. Committee Mentees
 
 {% include people_list.html people=site.data.people.committee %}

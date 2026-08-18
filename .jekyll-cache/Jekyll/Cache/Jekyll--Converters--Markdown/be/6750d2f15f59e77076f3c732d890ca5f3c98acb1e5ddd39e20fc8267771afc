@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Kyle Mahowald</title>
-  <meta name="description" content="Kyle Mahowald's Page">
-
-
-  <link rel="stylesheet" href="css/tufte.css">	
-  
-
-  <!-- Google Fonts loaded here -->
-  <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
-
-  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
-  
-
-  <link rel="canonical" href="/">
-  <link rel="alternate" type="application/rss+xml" title="Kyle Mahowald" href="/feed.xml" />
-</head>
-
-  <body>
-    <!--- Header and nav template site-wide -->
-<header>
-    <nav class="group">
-		<a href=""><img class="badge" src="assets/img/logo.png"></a>
-		<a href="https://scholar.google.com/citations?user=XUmFLVUAAAAJ&hl=en">Google Scholar</a>
-		<a href="https://docs.google.com/document/d/e/2PACX-1vSoRmuhEwwcePA795R4XhmIKjKlkSWV5KY6uRFRU7IudsFQVtinAj2b8_yisOtGdz9Qd4cKyz6s1JSS/pub">CV</a>
-                <a href="https://osf.io/dvyq6">OSF</a>
-                		<a href="http://www.xwordinfo.com/Thumbs?author=Kyle+Mahowald">Xword</a>
-                                <a href="mailto:kyle@utexas.edu"><span class="icon-mail"></span></a>  <a href="http://www.twitter.com/kmahowald"><span class="icon-twitter"></span></a>
-	</nav>
-</header>
-
-    <article>
-      <h1></h1>
-<p></p>
-
-
-<p><span class="marginnote"></span><img class="fullwidth" src="assets/img/kyle_2025.jpg" /></p>
+I"ŸŒ<p><span class="marginnote"></span><img class="fullwidth" src="assets/img/kyle_2025.jpg" /></p>
 
 <h1 class="content-listing-header sans">Kyle Mahowald</h1>
 <p><a href="mailto:mahowald@utexas.edu"> mahowald@utexas.edu</a>
@@ -114,6 +72,62 @@
     <a href="https://joshbarua.github.io"><img src="assets/img/people/barua.jpg" alt="Josh Barua" /></a>
     <span class="person-name"><a href="https://joshbarua.github.io">Josh Barua</a></span>
     <span class="person-now">Research Fellow, Cambridge-Boston Alignment Initiative</span>
+  </li>
+
+</ul>
+
+<h3 id="five-timers-club">Five-Timers Club</h3>
+
+<p>Collaborators with whom Iâ€™ve co-authored five or more papers.<sup class="sidenote-number">2</sup><span class="sidenote"><sup class="sidenote-number">2</sup> Named, of course, for the <a href="https://en.wikipedia.org/wiki/Saturday_Night_Live_Five-Timers_Club">SNL Five-Timers Club</a>. Counts from my CV as of 2026.</span></p>
+
+<ul class="people-grid">
+
+  <li>
+    <a href="https://tedlab.mit.edu"><img src="assets/img/people/gibson.jpg" alt="Ted Gibson" /></a>
+    <span class="person-name"><a href="https://tedlab.mit.edu">Ted Gibson</a></span>
+    <span class="person-now">20 papers</span>
+  </li>
+
+  <li>
+    <a href="https://socsci.uci.edu/~rfutrell/"><img src="assets/img/people/futrell.jpg" alt="Richard Futrell" /></a>
+    <span class="person-name"><a href="https://socsci.uci.edu/~rfutrell/">Richard Futrell</a></span>
+    <span class="person-now">15 papers</span>
+  </li>
+
+  <li>
+    <a href="https://evlab.mit.edu"><img src="assets/img/people/fedorenko.jpg" alt="Ev Fedorenko" /></a>
+    <span class="person-name"><a href="https://evlab.mit.edu">Ev Fedorenko</a></span>
+    <span class="person-now">12 papers</span>
+  </li>
+
+  <li>
+    <a href="https://colala.berkeley.edu"><img src="assets/img/people/piantadosi.jpg" alt="Steve Piantadosi" /></a>
+    <span class="person-name"><a href="https://colala.berkeley.edu">Steve Piantadosi</a></span>
+    <span class="person-now">8 papers</span>
+  </li>
+
+  <li>
+    <a href="https://kanishka.website"><img src="assets/img/people/misra.jpg" alt="Kanishka Misra" /></a>
+    <span class="person-name"><a href="https://kanishka.website">Kanishka Misra</a></span>
+    <span class="person-now">6 papers</span>
+  </li>
+
+  <li>
+    <a href="https://isabelledautriche.github.io"><img src="assets/img/people/dautriche.jpg" alt="Isabelle Dautriche" /></a>
+    <span class="person-name"><a href="https://isabelledautriche.github.io">Isabelle Dautriche</a></span>
+    <span class="person-now">5 papers</span>
+  </li>
+
+  <li>
+    <a href="https://venkatasg.net"><img src="assets/img/people/govindarajan.jpg" alt="Venkata Govindarajan" /></a>
+    <span class="person-name"><a href="https://venkatasg.net">Venkata Govindarajan</a></span>
+    <span class="person-now">5 papers</span>
+  </li>
+
+  <li>
+    <a href="https://jessyli.com"><img src="assets/img/people/li.jpg" alt="Jessy Li" /></a>
+    <span class="person-name"><a href="https://jessyli.com">Jessy Li</a></span>
+    <span class="person-now">5 papers</span>
   </li>
 
 </ul>
@@ -344,21 +358,4 @@ var sc_security="be6c0554";
 
 <noscript><div class="statcounter"><a title="hit counter" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/8927616/0/be6c0554/1/" alt="hit counter" /></a></div></noscript>
 <!-- End of Statcounter Code -->
-
-
-
-    </article>
-    <span class="print-footer"> - Kyle Mahowald</span>
-    <footer>
-  <ul class="footer-links group">
-    <li><a href="mailto:kyle@utexas.edu"><span class="icon-mail"></span></a></li>    
-      
-  </ul>
-<div class="credits">
-<span>&copy; 2026 &nbsp;&nbsp;KYLE MAHOWALD</span></br> 
-<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for Content-centric blogging </a> in <a href="//jekyllrb.com">Jekyll</a>.</span> 
-</div>  
-</footer>
-
-  </body>
-</html>
+:ET

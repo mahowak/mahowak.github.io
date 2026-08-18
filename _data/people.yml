@@ -82,37 +82,3 @@ committee:
     url: https://www.linguistics.pitt.edu/people/phillip-rogers
     now: Teaching Assistant Professor, University of Pittsburgh (PhD, UCSB)
 
-# Five-Timers Club: co-authors on 5+ papers (counted from CV, July 2026). `now` = paper count.
-five_timers:
-  - name: Ted Gibson
-    url: https://tedlab.mit.edu
-    img: gibson.jpg
-    now: 20 papers
-  - name: Richard Futrell
-    url: https://socsci.uci.edu/~rfutrell/
-    img: futrell.jpg
-    now: 15 papers
-  - name: Ev Fedorenko
-    url: https://evlab.mit.edu
-    img: fedorenko.jpg
-    now: 12 papers
-  - name: Steve Piantadosi
-    url: https://colala.berkeley.edu
-    img: piantadosi.jpg
-    now: 8 papers
-  - name: Kanishka Misra
-    url: https://kanishka.website
-    img: misra.jpg
-    now: 6 papers
-  - name: Isabelle Dautriche
-    url: https://isabelledautriche.github.io
-    img: dautriche.jpg
-    now: 5 papers
-  - name: Venkata Govindarajan
-    url: https://venkatasg.net
-    img: govindarajan.jpg
-    now: 5 papers
-  - name: Jessy Li
-    url: https://jessyli.com
-    img: li.jpg
-    now: 5 papers
